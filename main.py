@@ -1,20 +1,40 @@
 import os
 import pyfiglet
+import argparse
+import warnings
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+# Suppress specific sklearn warnings about model unpickling
+warnings.filterwarnings("ignore", category=UserWarning, module="sklearn")
 
 def run_PE(file):
-    os.system("python3 Extract/PE_main.py {}".format(file))
+    os.system(f"python3 Extract/PE_main.py {file}")
 
-def start():
+def start(folder_path):
     print(pyfiglet.figlet_format("Malware Detector"))
     print(" Welcome to antimalware detector PE scanner\n")
-    folder_path = input("Enter the folder path: ")
     files = os.listdir(folder_path)
-    for file in files:
-        file_path = os.path.join(folder_path, file)
-        if os.path.isfile(file_path):
-            print("Scanning file:", file)
-            run_PE(file_path)
-        else:
-            print("Skipping directory:", file)
+    
+    # Use ThreadPoolExecutor to run scans in parallel
+    with ThreadPoolExecutor() as executor:
+        futures = {executor.submit(run_PE, os.path.join(folder_path, file)): file for file in files if os.path.isfile(os.path.join(folder_path, file))}
+        
+        try:
+            for future in as_completed(futures):
+                file = futures[future]
+                try:
+                    future.result()
+                    print(f"Completed scanning file: {file}")
+                except Exception as exc:
+                    print(f"File {file} generated an exception: {exc}")
+        except KeyboardInterrupt:
+            print("\nKeyboardInterrupt detected, shutting down...")
+            executor.shutdown(wait=False)
+            print("Shutdown complete. Exiting program.")
+            return
 
-start()
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Antimalware PE scanner")
+    parser.add_argument("folder_path", help="The path to the folder containing files to scan")
+    args = parser.parse_args()
+    start(args.folder_path)
