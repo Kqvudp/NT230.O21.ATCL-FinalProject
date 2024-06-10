@@ -1,0 +1,2103 @@
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 4096, 110592, 168832, 114688, 0, 5368709120, 4096]
+The file dtdump.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 8192, 69632, 108400, 73728, 0, 5368709120, 4096]
+The file CloudNotifications.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 45056, 63424, 49152, 0, 5368709120, 4096]
+The file DsmUserTask.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 36864, 94208, 128496, 98304, 0, 5368709120, 4096]
+The file wiaacmgr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 290816, 102400, 1212416, 1504560, 1216512, 0, 5368709120, 4096]
+The file mmgaserver.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 57344, 110592, 147472, 114688, 0, 5368709120, 4096]
+The file UNPUXHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 15, 1531904, 4096, 2588672, 4123104, 2592768, 0, 5368709120, 4096]
+The file nvgwls.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 0, 1495040, 65536, 2195456, 3690240, 2199552, 0, 5368709120, 4096]
+The file msedgewebview2.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 151552, 4096, 200704, 353664, 204800, 0, 5368709120, 4096]
+The file wbadmin.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 37712, 32768, 0, 5368709120, 4096]
+The file SystemResetPlatform.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 118784, 4096, 204800, 323136, 208896, 0, 5368709120, 4096]
+The file CiTool.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 81920, 12288, 143360, 226624, 147456, 0, 5368709120, 4096]
+The file IEChooser.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 43120, 36864, 0, 5368709120, 4096]
+The file subst.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 4096, 61440, 89408, 65536, 0, 5368709120, 4096]
+The file RdpSa.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 65536, 94208, 103680, 98304, 0, 5368709120, 4096]
+The file odbcad32.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 462848, 8192, 913408, 1375328, 917504, 0, 5368709120, 4096]
+The file GamePanel.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 8192, 57344, 87488, 61440, 0, 5368709120, 4096]
+The file MicrosoftEdgeSH.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 8192, 65536, 104080, 69632, 0, 5368709120, 4096]
+The file MsSpellCheckingHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 8192, 69632, 109600, 73728, 0, 5368709120, 4096]
+The file getmac.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 139264, 98304, 294912, 436208, 299008, 0, 5368709120, 4096]
+The file wksprt.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 41936, 36864, 0, 5368709120, 4096]
+The file TapiUnattend.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 57344, 90912, 61440, 0, 5368709120, 4096]
+The file CloudExperienceHostBroker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 196608, 73728, 446464, 642208, 450560, 0, 5368709120, 4096]
+The file Narrator.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 61440, 88144, 65536, 0, 5368709120, 4096]
+The file tar.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 32768, 94208, 126384, 98304, 0, 5368709120, 4096]
+The file tabcal.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 249856, 106496, 548864, 800272, 552960, 0, 5368709120, 4096]
+The file lpksetup.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 8192, 65536, 93872, 69632, 0, 5368709120, 4096]
+The file CastSrv.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 0, 540672, 4096, 749568, 1292384, 753664, 0, 5368709120, 4096]
+The file nvngx_update.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 20480, 53248, 67584, 57344, 0, 5368709120, 4096]
+The file SecEdit.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 73728, 102400, 117184, 106496, 0, 5368709120, 4096]
+The file MdSched.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 65536, 8192, 81920, 147952, 86016, 0, 5368709120, 4096]
+The file upfc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 8192, 36864, 48576, 40960, 0, 5368709120, 4096]
+The file grpconv.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 118784, 8192, 188416, 310320, 192512, 0, 5368709120, 4096]
+The file gpresult.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 38, 327680, 8192, 360448, 689200, 364544, 0, 5368709120, 4096]
+The file curl.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 61440, 32768, 360448, 424224, 364544, 0, 5368709120, 4096]
+The file DXCpl.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 49152, 68320, 53248, 0, 5368709120, 4096]
+The file WSManHTTPConfig.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 4096, 65536, 103712, 69632, 0, 5368709120, 4096]
+The file LockAppHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 45056, 62800, 49152, 0, 5368709120, 4096]
+The file DmNotificationBroker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 73728, 86352, 77824, 0, 5368709120, 4096]
+The file PATHPING.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 36864, 94208, 129184, 98304, 0, 5368709120, 4096]
+The file MicrosoftEdgeDevTools.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 77824, 111984, 81920, 0, 5368709120, 4096]
+The file bootsect.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 57344, 90112, 104272, 94208, 0, 5368709120, 4096]
+The file WSCollect.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 26, 1196032, 155648, 3375104, 4573280, 3379200, 0, 5368709120, 4096]
+The file nvWmi64.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 4096, 53248, 82864, 57344, 0, 5368709120, 4096]
+The file LanguageComponentsInstallerComHandler.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 184320, 94208, 401408, 588704, 405504, 0, 5368709120, 4096]
+The file osk.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 86016, 131072, 157616, 135168, 0, 5368709120, 4096]
+The file fontview.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 8192, 327680, 368672, 331776, 0, 5368709120, 4096]
+The file reg.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 49152, 69392, 53248, 0, 5368709120, 4096]
+The file RdpSaProxy.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 299008, 106496, 561152, 860048, 565248, 0, 5368709120, 4096]
+The file mblctr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 43344, 36864, 0, 5368709120, 4096]
+The file find.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 61440, 94240, 65536, 0, 5368709120, 4096]
+The file easinvoker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 49472, 40960, 0, 5368709120, 4096]
+The file wowreg32.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 1417216, 12288, 4034560, 5452176, 4038656, 0, 5368709120, 4096]
+The file Taskmgr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 73728, 4096, 118784, 193040, 122880, 0, 5368709120, 4096]
+The file WUDFCompanionHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 4096, 114688, 163776, 118784, 0, 5368709120, 4096]
+The file FileDialogBroker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 8192, 49152, 75520, 53248, 0, 5368709120, 4096]
+The file SyncHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 32768, 45632, 36864, 0, 5368709120, 4096]
+The file WinRTNetMUAHostServer.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 43984, 36864, 0, 5368709120, 4096]
+The file comrepl.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 40960, 59024, 45056, 0, 5368709120, 4096]
+The file AuditShD.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 237568, 8192, 409600, 648672, 413696, 0, 5368709120, 4096]
+The file printfilterpipelinesvc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 57344, 4096, 135168, 194400, 139264, 0, 5368709120, 4096]
+The file UDCInfInstaller.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 81920, 8192, 180224, 265328, 184320, 0, 5368709120, 4096]
+The file net1.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 36160, 32768, 0, 5368709120, 4096]
+The file ctfmon.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 41712, 36864, 0, 5368709120, 4096]
+The file dllhst3g.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 57344, 90112, 104080, 94208, 0, 5368709120, 4096]
+The file WSReset.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 57344, 81920, 94912, 86016, 0, 5368709120, 4096]
+The file newdev.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 69632, 8192, 147456, 219088, 151552, 0, 5368709120, 4096]
+The file verifiergui.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 65536, 8192, 122880, 190176, 126976, 0, 5368709120, 4096]
+The file WMIADAP.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 0, 262144, 4096, 483328, 747168, 487424, 0, 5368709120, 4096]
+The file ssh-keyscan.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 16, 548864, 16384, 1097728, 1647776, 1101824, 0, 5368709120, 4096]
+The file RtkAudUService64.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 40960, 61808, 45056, 0, 5368709120, 4096]
+The file icacls.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 0, 57344, 151552, 233472, 294032, 237568, 0, 5368709120, 4096]
+The file nvsmartmaxapp64.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 8192, 98304, 148528, 102400, 0, 5368709120, 4096]
+The file dispdiag.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 24576, 33152, 28672, 0, 5368709120, 4096]
+The file iscsicpl.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 45056, 70080, 49152, 0, 5368709120, 4096]
+The file PackagedCWALauncher.exe is legitimate
+Features used for classification:  [332, 224, 258, 14, 29, 1118208, 4096, 2572288, 3692176, 2576384, 3694592, 4194304, 4096]
+The file SphericalEquirect32.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 31, 155648, 4096, 208896, 364176, 212992, 0, 5368709120, 4096]
+The file clinfo.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 77824, 32768, 208896, 286304, 212992, 0, 5368709120, 4096]
+The file dxdiag.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 118784, 4096, 233472, 353184, 237568, 0, 5368709120, 4096]
+The file Utilman.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 32768, 45232, 36864, 0, 5368709120, 4096]
+The file replace.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 61440, 4096, 106496, 167056, 110592, 0, 5368709120, 4096]
+The file sethc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 8192, 40960, 60400, 45056, 0, 5368709120, 4096]
+The file netiougc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 61440, 85104, 65536, 0, 5368709120, 4096]
+The file ReAgentc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 4096, 81920, 138656, 86016, 0, 5368709120, 4096]
+The file mcbuilder.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 4096, 49152, 79488, 53248, 0, 5368709120, 4096]
+The file FXSUNATD.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 118784, 132384, 122880, 0, 5368709120, 4096]
+The file nbtstat.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 8192, 77824, 116640, 81920, 0, 5368709120, 4096]
+The file nslookup.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 36864, 52944, 40960, 0, 5368709120, 4096]
+The file WallpaperHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 8192, 61440, 93296, 65536, 0, 5368709120, 4096]
+The file takeown.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 8192, 53248, 73280, 57344, 0, 5368709120, 4096]
+The file LockScreenContentServer.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 36096, 32768, 0, 5368709120, 4096]
+The file write.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 32768, 46592, 36864, 0, 5368709120, 4096]
+The file cofire.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 909312, 4096, 3301376, 4209840, 3305472, 0, 18446735277616529408, 4096]
+The file hvax64.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 98304, 8192, 159744, 257888, 163840, 0, 5368709120, 4096]
+The file PerceptionSimulationService.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 8192, 81920, 123952, 86016, 0, 5368709120, 4096]
+The file audit.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 90112, 94208, 229376, 320752, 233472, 0, 5368709120, 4096]
+The file bdeunlock.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 110592, 114688, 266240, 377440, 270336, 0, 5368709120, 4096]
+The file notepad.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 12288, 53248, 73728, 57344, 0, 5368709120, 4096]
+The file upnpcont.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 8192, 90112, 137488, 94208, 0, 5368709120, 4096]
+The file powercfg.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 147456, 8192, 397312, 546512, 401408, 0, 5368709120, 4096]
+The file systemreset.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 43536, 36864, 0, 5368709120, 4096]
+The file Windows.Media.BackgroundPlayback.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 45056, 60896, 49152, 0, 5368709120, 4096]
+The file CameraSettingsUIHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 4096, 61440, 100704, 65536, 0, 5368709120, 4096]
+The file dusmtask.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 44128, 36864, 0, 5368709120, 4096]
+The file TRACERT.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 16384, 40960, 49248, 45056, 0, 5368709120, 4096]
+The file DeviceEject.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 102400, 4096, 131072, 235680, 135168, 0, 5368709120, 4096]
+The file tttracer.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 90112, 4096, 385024, 475232, 389120, 0, 5368709120, 4096]
+The file d3dconfig.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 446464, 40960, 626688, 1074336, 630784, 0, 5368709120, 4096]
+The file conhost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 16384, 4096, 81920, 98800, 86016, 0, 5368709120, 4096]
+The file UDCUserAgent.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 65536, 102400, 123776, 106496, 0, 5368709120, 4096]
+The file changepk.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 4096, 65536, 105728, 69632, 0, 5368709120, 4096]
+The file spaceman.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 110592, 147456, 167120, 151552, 0, 5368709120, 4096]
+The file fhmanagew.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 90112, 8192, 159744, 251744, 163840, 0, 5368709120, 4096]
+The file windeploy.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 200704, 4096, 462848, 666032, 466944, 0, 5368709120, 4096]
+The file BioIso.exe is legitimate
+Features used for classification:  [332, 224, 258, 14, 29, 286720, 4096, 548864, 837488, 552960, 839680, 4194304, 4096]
+The file ReShadeFXC32.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 77824, 172032, 228992, 176128, 0, 5368709120, 4096]
+The file msconfig.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 139264, 77824, 339968, 481968, 344064, 0, 5368709120, 4096]
+The file WMIC.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 35, 155648, 53248, 241664, 399568, 245760, 0, 5368709120, 4096]
+The file vsjitdebugger.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 36576, 32768, 0, 5368709120, 4096]
+The file LaunchTM.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 12288, 73728, 116400, 77824, 0, 5368709120, 4096]
+The file alg.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 147456, 12288, 249856, 400016, 253952, 0, 5368709120, 4096]
+The file wpr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 77824, 102400, 110080, 106496, 0, 5368709120, 4096]
+The file SystemPropertiesHardware.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 65536, 45056, 147456, 215696, 151552, 0, 5368709120, 4096]
+The file wsl.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 42624, 36864, 0, 5368709120, 4096]
+The file agentactivationruntimestarter.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 37712, 32768, 0, 5368709120, 4096]
+The file InfDefaultInstall.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 28672, 61440, 70912, 65536, 0, 5368709120, 4096]
+The file bthudtask.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 172032, 8192, 339968, 514704, 344064, 0, 5368709120, 4096]
+The file imjpuexc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 8192, 86016, 130320, 90112, 0, 5368709120, 4096]
+The file logman.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 40960, 61440, 45056, 0, 5368709120, 4096]
+The file ISM.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 8192, 45056, 67136, 49152, 0, 5368709120, 4096]
+The file PasswordOnWakeSettingFlyout.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 43488, 36864, 0, 5368709120, 4096]
+The file label.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 352256, 8192, 577536, 932240, 581632, 0, 5368709120, 4096]
+The file audiodg.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 815104, 8192, 1089536, 1905856, 1093632, 0, 5368709120, 4096]
+The file refsutil.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 24576, 33120, 28672, 0, 5368709120, 4096]
+The file help.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 49152, 69584, 53248, 0, 5368709120, 4096]
+The file auditpol.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 53248, 79008, 57344, 0, 5368709120, 4096]
+The file UpgradeResultsUI.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 8192, 53248, 81328, 57344, 0, 5368709120, 4096]
+The file DFDWiz.exe is legitimate
+Features used for classification:  [34404, 240, 35, 8, 0, 405504, 53248, 1089536, 1498400, 1093632, 0, 5368709120, 4096]
+The file CPC10QA4.EXE is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 53248, 8192, 102400, 154800, 106496, 0, 5368709120, 4096]
+The file AppHostRegistrationVerifier.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 8192, 98304, 154928, 102400, 0, 5368709120, 4096]
+The file tpmvscmgrsvr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 73728, 8192, 122880, 196400, 126976, 0, 5368709120, 4096]
+The file DataStoreCacheDumpTool.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 4096, 69632, 110480, 73728, 0, 5368709120, 4096]
+The file runexehelper.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 4096, 90112, 148880, 94208, 0, 5368709120, 4096]
+The file AtBroker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 37200, 32768, 0, 5368709120, 4096]
+The file mshta.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 8192, 57344, 85984, 61440, 0, 5368709120, 4096]
+The file lodctr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 184320, 8192, 348160, 535120, 352256, 0, 5368709120, 4096]
+The file DeviceEnroller.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 8192, 69632, 93712, 73728, 0, 5368709120, 4096]
+The file iscsicli.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 4096, 69632, 115520, 73728, 0, 5368709120, 4096]
+The file SecurityHealthHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 4096, 69632, 107328, 73728, 0, 5368709120, 4096]
+The file ofdeploy.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 61440, 69632, 159744, 221072, 163840, 0, 5368709120, 4096]
+The file RelPost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 106496, 8192, 163840, 270752, 167936, 0, 5368709120, 4096]
+The file fsutil.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 43088, 36864, 0, 5368709120, 4096]
+The file print.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 196608, 8192, 315392, 511616, 319488, 0, 5368709120, 4096]
+The file MDEServer.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 40960, 60256, 45056, 0, 5368709120, 4096]
+The file NetEvtFwdr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 4096, 77824, 123280, 81920, 0, 5368709120, 4096]
+The file systeminfo.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 73728, 4096, 110592, 184752, 114688, 0, 5368709120, 4096]
+The file diskpart.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 4096, 73728, 120064, 77824, 0, 5368709120, 4096]
+The file taskkill.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 94208, 135168, 158608, 139264, 0, 5368709120, 4096]
+The file repair-bde.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 102400, 126976, 135744, 131072, 0, 5368709120, 4096]
+The file resmon.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 73728, 32768, 135168, 209008, 139264, 0, 5368709120, 4096]
+The file wscript.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 331776, 8192, 282624, 613808, 286720, 0, 5368709120, 4096]
+The file RMActivate.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 77824, 102400, 110080, 106496, 0, 5368709120, 4096]
+The file SystemPropertiesAdvanced.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 135168, 4096, 172032, 309280, 176128, 0, 5368709120, 4096]
+The file regamdcomp.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 4096, 61440, 99680, 65536, 0, 5368709120, 4096]
+The file whoami.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 37680, 32768, 0, 5368709120, 4096]
+The file dvdplay.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 0, 155648, 4096, 364544, 523344, 368640, 0, 5368709120, 4096]
+The file scp.exe is malicious
+Features used for classification:  [332, 224, 258, 14, 29, 151552, 4096, 241664, 395376, 245760, 397312, 4194304, 4096]
+The file NvCameraEnable.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 311296, 8192, 458752, 770480, 462848, 0, 5368709120, 4096]
+The file Magnify.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 57344, 131072, 180208, 135168, 0, 5368709120, 4096]
+The file fsquirt.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 118784, 4096, 237568, 357040, 241664, 0, 5368709120, 4096]
+The file EaseOfAccessDialog.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 32768, 49456, 36864, 0, 5368709120, 4096]
+The file netbtugc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 8192, 90112, 132416, 94208, 0, 5368709120, 4096]
+The file phoneactivate.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 45056, 66208, 49152, 0, 5368709120, 4096]
+The file dialer.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 65536, 100112, 69632, 0, 5368709120, 4096]
+The file edpnotify.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 61440, 86016, 99872, 90112, 0, 5368709120, 4096]
+The file PrintIsolationHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 77824, 102400, 110080, 106496, 0, 5368709120, 4096]
+The file SystemPropertiesRemote.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 8192, 94208, 153616, 98304, 0, 5368709120, 4096]
+The file sihost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 69632, 4096, 118784, 190816, 122880, 0, 5368709120, 4096]
+The file EoAExperiences.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 237568, 8192, 421888, 659632, 425984, 0, 5368709120, 4096]
+The file smartscreen.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 8192, 57344, 84960, 61440, 0, 5368709120, 4096]
+The file rrinstaller.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 36864, 53936, 40960, 0, 5368709120, 4096]
+The file dpnsvr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 172032, 4096, 679936, 852592, 684032, 0, 5368709120, 4096]
+The file vulkaninfo64.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 8192, 49152, 78496, 53248, 0, 5368709120, 4096]
+The file typeperf.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 131072, 4096, 245760, 378320, 249856, 0, 5368709120, 4096]
+The file diskraid.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 37072, 32768, 0, 5368709120, 4096]
+The file prproc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 77824, 4096, 114688, 193168, 118784, 0, 5368709120, 4096]
+The file Robocopy.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 43520, 36864, 0, 5368709120, 4096]
+The file snmptrap.exe is legitimate
+Features used for classification:  [34404, 240, 2082, 14, 38, 82882560, 225280, 111882240, 194765104, 111886336, 0, 5368709120, 4096]
+The file MRT.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 147456, 4096, 487424, 637760, 491520, 0, 5368709120, 4096]
+The file nltest.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 999424, 4096, 3207168, 4207712, 3211264, 0, 18446735277616529408, 4096]
+The file hvix64.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 51152, 40960, 0, 5368709120, 4096]
+The file bridgeunattend.exe is legitimate
+Features used for classification:  [34404, 240, 3106, 14, 30, 65536, 4096, 110592, 177472, 114688, 0, 5368709120, 4096]
+The file DismHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 4096, 69632, 109568, 73728, 0, 5368709120, 4096]
+The file driverquery.exe is legitimate
+ __  __       _                          ____       _            _             
+|  \/  | __ _| |_      ____ _ _ __ ___  |  _ \  ___| |_ ___  ___| |_ ___  _ __ 
+| |\/| |/ _` | \ \ /\ / / _` | '__/ _ \ | | | |/ _ \ __/ _ \/ __| __/ _ \| '__|
+| |  | | (_| | |\ V  V / (_| | | |  __/ | |_| |  __/ ||  __/ (__| || (_) | |   
+|_|  |_|\__,_|_| \_/\_/ \__,_|_|  \___| |____/ \___|\__\___|\___|\__\___/|_|   
+                                                                               
+
+ Welcome to antimalware detector PE scanner
+
+Completed scanning file: UNPUXHost.exe
+Completed scanning file: DsmUserTask.exe
+Completed scanning file: dtdump.exe
+Completed scanning file: CloudNotifications.exe
+Completed scanning file: wiaacmgr.exe
+Completed scanning file: mmgaserver.exe
+Completed scanning file: nvgwls.exe
+Completed scanning file: msedgewebview2.exe
+Completed scanning file: wbadmin.exe
+Completed scanning file: IEChooser.exe
+Completed scanning file: SystemResetPlatform.exe
+Completed scanning file: CiTool.exe
+Completed scanning file: subst.exe
+Completed scanning file: RdpSa.exe
+Completed scanning file: odbcad32.exe
+Completed scanning file: GamePanel.exe
+Completed scanning file: MicrosoftEdgeSH.exe
+Completed scanning file: getmac.exe
+Completed scanning file: MsSpellCheckingHost.exe
+Completed scanning file: TapiUnattend.exe
+Completed scanning file: wksprt.exe
+Completed scanning file: CloudExperienceHostBroker.exe
+Completed scanning file: Narrator.exe
+Completed scanning file: tar.exe
+Completed scanning file: tabcal.exe
+Completed scanning file: lpksetup.exe
+Completed scanning file: CastSrv.exe
+Completed scanning file: nvngx_update.exe
+Completed scanning file: SecEdit.exe
+Completed scanning file: MdSched.exe
+Completed scanning file: grpconv.exe
+Completed scanning file: upfc.exe
+Completed scanning file: gpresult.exe
+Completed scanning file: curl.exe
+Completed scanning file: LockAppHost.exe
+Completed scanning file: DXCpl.exe
+Completed scanning file: WSManHTTPConfig.exe
+Completed scanning file: DmNotificationBroker.exe
+Completed scanning file: PATHPING.EXE
+Completed scanning file: MicrosoftEdgeDevTools.exe
+Completed scanning file: bootsect.exe
+Completed scanning file: WSCollect.exe
+Completed scanning file: nvWmi64.exe
+Completed scanning file: osk.exe
+Completed scanning file: LanguageComponentsInstallerComHandler.exe
+Completed scanning file: fontview.exe
+Completed scanning file: RdpSaProxy.exe
+Completed scanning file: reg.exe
+Completed scanning file: mblctr.exe
+Completed scanning file: find.exe
+Completed scanning file: easinvoker.exe
+Completed scanning file: wowreg32.exe
+Completed scanning file: Taskmgr.exe
+Completed scanning file: WUDFCompanionHost.exe
+Completed scanning file: FileDialogBroker.exe
+Completed scanning file: comrepl.exe
+Completed scanning file: SyncHost.exe
+Completed scanning file: WinRTNetMUAHostServer.exe
+Completed scanning file: UDCInfInstaller.exe
+Completed scanning file: AuditShD.exe
+Completed scanning file: printfilterpipelinesvc.exe
+Completed scanning file: net1.exe
+Completed scanning file: ctfmon.exe
+Completed scanning file: dllhst3g.exe
+Completed scanning file: WSReset.exe
+Completed scanning file: verifiergui.exe
+Completed scanning file: newdev.exe
+Completed scanning file: ssh-keyscan.exe
+Completed scanning file: WMIADAP.exe
+Completed scanning file: RtkAudUService64.exe
+Completed scanning file: icacls.exe
+Completed scanning file: nvsmartmaxapp64.exe
+Completed scanning file: dispdiag.exe
+Completed scanning file: iscsicpl.exe
+Completed scanning file: SphericalEquirect32.exe
+Completed scanning file: PackagedCWALauncher.exe
+Completed scanning file: clinfo.exe
+Completed scanning file: dxdiag.exe
+Completed scanning file: Utilman.exe
+Completed scanning file: replace.exe
+Completed scanning file: sethc.exe
+Completed scanning file: netiougc.exe
+Completed scanning file: ReAgentc.exe
+Completed scanning file: nbtstat.exe
+Completed scanning file: mcbuilder.exe
+Completed scanning file: FXSUNATD.exe
+Completed scanning file: nslookup.exe
+Completed scanning file: WallpaperHost.exe
+Completed scanning file: LockScreenContentServer.exe
+Completed scanning file: takeown.exe
+Completed scanning file: write.exe
+Completed scanning file: cofire.exe
+Completed scanning file: hvax64.exe
+Completed scanning file: audit.exe
+Completed scanning file: bdeunlock.exe
+Completed scanning file: PerceptionSimulationService.exe
+Completed scanning file: notepad.exe
+Completed scanning file: upnpcont.exe
+Completed scanning file: powercfg.exe
+Completed scanning file: systemreset.exe
+Completed scanning file: Windows.Media.BackgroundPlayback.exe
+Completed scanning file: CameraSettingsUIHost.exe
+Completed scanning file: dusmtask.exe
+Completed scanning file: DeviceEject.exe
+Completed scanning file: TRACERT.EXE
+Completed scanning file: d3dconfig.exe
+Completed scanning file: tttracer.exe
+Completed scanning file: conhost.exe
+Completed scanning file: UDCUserAgent.exe
+Completed scanning file: spaceman.exe
+Completed scanning file: changepk.exe
+Completed scanning file: fhmanagew.exe
+Completed scanning file: windeploy.exe
+Completed scanning file: ReShadeFXC32.exe
+Completed scanning file: BioIso.exe
+Completed scanning file: msconfig.exe
+Completed scanning file: WMIC.exe
+Completed scanning file: vsjitdebugger.exe
+Completed scanning file: LaunchTM.exe
+Completed scanning file: alg.exe
+Completed scanning file: wpr.exe
+Completed scanning file: SystemPropertiesHardware.exe
+Completed scanning file: wsl.exe
+Completed scanning file: InfDefaultInstall.exe
+Completed scanning file: agentactivationruntimestarter.exe
+Completed scanning file: bthudtask.exe
+Completed scanning file: imjpuexc.exe
+Completed scanning file: logman.exe
+Completed scanning file: ISM.exe
+Completed scanning file: label.exe
+Completed scanning file: PasswordOnWakeSettingFlyout.exe
+Completed scanning file: audiodg.exe
+Completed scanning file: refsutil.exe
+Completed scanning file: UpgradeResultsUI.exe
+Completed scanning file: help.exe
+Completed scanning file: auditpol.exe
+Completed scanning file: CPC10QA4.EXE
+Completed scanning file: DFDWiz.exe
+Completed scanning file: tpmvscmgrsvr.exe
+Completed scanning file: AppHostRegistrationVerifier.exe
+Completed scanning file: DataStoreCacheDumpTool.exe
+Completed scanning file: AtBroker.exe
+Completed scanning file: runexehelper.exe
+Completed scanning file: mshta.exe
+Completed scanning file: lodctr.exe
+Completed scanning file: DeviceEnroller.exe
+Completed scanning file: iscsicli.exe
+Completed scanning file: SecurityHealthHost.exe
+Completed scanning file: ofdeploy.exe
+Completed scanning file: RelPost.exe
+Completed scanning file: print.exe
+Completed scanning file: fsutil.exe
+Completed scanning file: MDEServer.exe
+Completed scanning file: NetEvtFwdr.exe
+Completed scanning file: systeminfo.exe
+Completed scanning file: taskkill.exe
+Completed scanning file: diskpart.exe
+Completed scanning file: repair-bde.exe
+Completed scanning file: resmon.exe
+Completed scanning file: SystemPropertiesAdvanced.exe
+Completed scanning file: RMActivate.exe
+Completed scanning file: wscript.exe
+Completed scanning file: regamdcomp.exe
+Completed scanning file: whoami.exe
+Completed scanning file: dvdplay.exe
+Completed scanning file: fsquirt.exe
+Completed scanning file: scp.exe
+Completed scanning file: NvCameraEnable.exe
+Completed scanning file: Magnify.exe
+Completed scanning file: EaseOfAccessDialog.exe
+Completed scanning file: netbtugc.exe
+Completed scanning file: dialer.exe
+Completed scanning file: edpnotify.exe
+Completed scanning file: phoneactivate.exe
+Completed scanning file: PrintIsolationHost.exe
+Completed scanning file: SystemPropertiesRemote.exe
+Completed scanning file: sihost.exe
+Completed scanning file: EoAExperiences.exe
+Completed scanning file: smartscreen.exe
+Completed scanning file: rrinstaller.exe
+Completed scanning file: dpnsvr.exe
+Completed scanning file: vulkaninfo64.exe
+Completed scanning file: typeperf.exe
+Completed scanning file: diskraid.exe
+Completed scanning file: prproc.exe
+Completed scanning file: Robocopy.exe
+Completed scanning file: snmptrap.exe
+Completed scanning file: MRT.exe
+Completed scanning file: nltest.exe
+Completed scanning file: hvix64.exe
+Completed scanning file: DismHost.exe
+Features used for classification:  [34404, 240, 34, 14, 12, 536576, 118784, 1060864, 1599488, 1064960, 0, 5368709120, 4096]
+The file nvdispco64.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 40960, 98304, 128288, 102400, 0, 5368709120, 4096]
+The file CompMgmtLauncher.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 45056, 61424, 49152, 0, 5368709120, 4096]
+The file CheckNetIsolation.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 122880, 4096, 163840, 286656, 167936, 0, 5368709120, 4096]
+The file WlanHelper.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 77824, 86016, 212992, 290304, 217088, 0, 5368709120, 4096]
+The file wermgr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 4096, 57344, 88000, 61440, 0, 5368709120, 4096]
+The file WindowsActionDialog.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 1212416, 4096, 2719744, 3934016, 2723840, 0, 5368709120, 4096]
+The file SphericalEquirect64.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 409600, 8192, 831488, 1240384, 835584, 0, 5368709120, 4096]
+The file ApplyTrustOffline.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 86016, 107136, 90112, 0, 5368709120, 4096]
+The file sxstrace.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 53248, 75744, 57344, 0, 5368709120, 4096]
+The file SysResetErr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 38272, 32768, 0, 5368709120, 4096]
+The file msfeedssync.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 61440, 122880, 164160, 126976, 0, 5368709120, 4096]
+The file CustomInstallExec.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 102400, 4096, 172032, 277024, 176128, 0, 5368709120, 4096]
+The file bcdboot.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 51408, 40960, 0, 5368709120, 4096]
+The file fc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 122880, 12288, 204800, 329248, 208896, 0, 5368709120, 4096]
+The file wkspbroker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 41904, 36864, 0, 5368709120, 4096]
+The file HOSTNAME.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 8192, 69632, 103344, 73728, 0, 5368709120, 4096]
+The file sc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 61440, 20480, 90112, 154560, 94208, 0, 5368709120, 4096]
+The file rekeywiz.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 4096, 53248, 81168, 57344, 0, 5368709120, 4096]
+The file shrpubw.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 4096, 61440, 89984, 65536, 0, 5368709120, 4096]
+The file UPPrinterInstaller.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 94208, 147456, 182688, 151552, 0, 5368709120, 4096]
+The file LiveCaptions.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 49152, 71536, 53248, 0, 5368709120, 4096]
+The file GameInputSvc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 86016, 8192, 143360, 232080, 147456, 0, 5368709120, 4096]
+The file msoobe.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 4096, 65536, 104128, 69632, 0, 5368709120, 4096]
+The file sigverif.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 208896, 8192, 299008, 508128, 303104, 0, 5368709120, 4096]
+The file certreq.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 4096, 77824, 127392, 81920, 0, 5368709120, 4096]
+The file FsIso.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 42336, 36864, 0, 5368709120, 4096]
+The file efsui.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 8192, 98304, 156112, 102400, 0, 5368709120, 4096]
+The file immersivetpmvscmgrsvr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 8192, 159744, 216512, 163840, 0, 5368709120, 4096]
+The file pnputil.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 98304, 73728, 212992, 311904, 217088, 0, 5368709120, 4096]
+The file VoiceAccess.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 8192, 102400, 162176, 106496, 0, 5368709120, 4096]
+The file dasHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 8192, 61440, 85520, 65536, 0, 5368709120, 4096]
+The file rdrleakdiag.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 393216, 8192, 667648, 1062336, 671744, 0, 5368709120, 4096]
+The file WWAHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 34, 135168, 65536, 274432, 409616, 278528, 0, 5368709120, 4096]
+The file amdsmi.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 221184, 4096, 303104, 523424, 307200, 0, 5368709120, 4096]
+The file ttdinject.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 139264, 8192, 212992, 352384, 217088, 0, 5368709120, 4096]
+The file TieringEngineService.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 8192, 114688, 171440, 118784, 0, 5368709120, 4096]
+The file browserexport.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 61440, 95264, 65536, 0, 5368709120, 4096]
+The file MdmDiagnosticsTool.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 24576, 4096, 53248, 77264, 57344, 0, 5368709120, 4096]
+The file UDCInfDeviceHelper.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 0, 192512, 4096, 483328, 676864, 487424, 0, 5368709120, 4096]
+The file sftp.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 73728, 12288, 77824, 151936, 81920, 0, 5368709120, 4096]
+The file EhStorAuthn.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 53248, 85328, 57344, 0, 5368709120, 4096]
+The file SrTasks.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 53248, 4096, 90112, 143744, 94208, 0, 5368709120, 4096]
+The file SecurityHealthService.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 8192, 49152, 74384, 53248, 0, 5368709120, 4096]
+The file UserDataSource.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 77824, 8192, 131072, 210112, 135168, 0, 5368709120, 4096]
+The file WmiApSrv.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 45056, 64384, 49152, 0, 5368709120, 4096]
+The file cacls.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 40960, 62400, 45056, 0, 5368709120, 4096]
+The file XblGameSaveTask.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 61440, 8192, 114688, 178432, 118784, 0, 5368709120, 4096]
+The file MDMAgent.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 4096, 90112, 120992, 94208, 0, 5368709120, 4096]
+The file ftp.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 679936, 4096, 872448, 1555088, 876544, 0, 5368709120, 4096]
+The file wbengine.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 8192, 65536, 99888, 69632, 0, 5368709120, 4096]
+The file EASPolicyManagerBrokerHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 14, 176128, 4096, 294912, 470864, 299008, 0, 5368709120, 4096]
+The file amdlogum.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 122880, 4096, 172032, 295840, 176128, 0, 5368709120, 4096]
+The file ie4uinit.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 200704, 8192, 335872, 539680, 339968, 0, 5368709120, 4096]
+The file licensingdiag.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 45056, 114688, 162144, 118784, 0, 5368709120, 4096]
+The file OpenWith.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 32768, 46336, 36864, 0, 5368709120, 4096]
+The file runas.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 4096, 81920, 132432, 86016, 0, 5368709120, 4096]
+The file tpmvscmgr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 430080, 4096, 430080, 862336, 434176, 0, 5368709120, 4096]
+The file fontdrvhost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 106496, 36864, 204800, 312240, 208896, 0, 5368709120, 4096]
+The file SndVol.exe is legitimate
+Features used for classification:  [34404, 240, 3106, 14, 30, 81920, 86016, 241664, 326448, 245760, 0, 5368709120, 4096]
+The file RecoveryDrive.exe is legitimate
+Features used for classification:  [34404, 240, 35, 8, 0, 360448, 45056, 679936, 1040592, 684032, 0, 5368709120, 4096]
+The file CPC10DA4.EXE is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 8192, 77824, 119088, 81920, 0, 5368709120, 4096]
+The file WinBioDataModelOOBE.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 16384, 98304, 139264, 155904, 143360, 0, 5368709120, 4096]
+The file AMDNoiseSuppression.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 8192, 106496, 163472, 110592, 0, 5368709120, 4096]
+The file appidpolicyconverter.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 48352, 40960, 0, 5368709120, 4096]
+The file mountvol.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 8192, 77824, 128368, 81920, 0, 5368709120, 4096]
+The file pcalua.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 53248, 73728, 172032, 224656, 176128, 0, 5368709120, 4096]
+The file recdisc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 53248, 79744, 57344, 0, 5368709120, 4096]
+The file PnPUnattend.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 192512, 8192, 299008, 494016, 303104, 0, 5368709120, 4096]
+The file omadmclient.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 225280, 8192, 483328, 710288, 487424, 0, 5368709120, 4096]
+The file vds.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 466944, 24576, 995328, 1464880, 999424, 0, 5368709120, 4096]
+The file VSSVC.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 77824, 102400, 110112, 106496, 0, 5368709120, 4096]
+The file MSchedExe.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 114688, 77824, 286720, 402080, 290816, 0, 5368709120, 4096]
+The file msinfo32.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 8192, 49152, 77008, 53248, 0, 5368709120, 4096]
+The file proquota.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 49152, 75744, 53248, 0, 5368709120, 4096]
+The file UIMgrBroker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 36864, 53344, 40960, 0, 5368709120, 4096]
+The file esimtool.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 45056, 69936, 49152, 0, 5368709120, 4096]
+The file WindowsUpdateElevatedInstaller.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 114688, 135168, 143712, 139264, 0, 5368709120, 4096]
+The file PerceptionSimulationInput.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 40960, 62704, 45056, 0, 5368709120, 4096]
+The file wiawow64.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 73728, 32768, 151552, 227296, 155648, 0, 5368709120, 4096]
+The file consent.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 8192, 77824, 122576, 81920, 0, 5368709120, 4096]
+The file provtool.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 69632, 221184, 1789952, 1861088, 1794048, 0, 5368709120, 4096]
+The file DisplaySwitch.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 49152, 72544, 53248, 0, 5368709120, 4096]
+The file CertEnrollCtrl.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 20480, 45056, 53232, 49152, 0, 5368709120, 4096]
+The file calc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 24576, 45056, 53648, 49152, 0, 5368709120, 4096]
+The file cliconfg.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 4096, 81920, 131440, 86016, 0, 5368709120, 4096]
+The file ie4ushowIE.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 8192, 36864, 51136, 40960, 0, 5368709120, 4096]
+The file regsvr32.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 8192, 77824, 111184, 81920, 0, 5368709120, 4096]
+The file TSTheme.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 32768, 46336, 36864, 0, 5368709120, 4096]
+The file wpnpinst.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 49152, 68096, 53248, 0, 5368709120, 4096]
+The file CIDiag.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 36, 57344, 4096, 118784, 176304, 122880, 0, 5368709120, 4096]
+The file LenovoUtilityService.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 42976, 36864, 0, 5368709120, 4096]
+The file pcwrun.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 61440, 94080, 65536, 0, 5368709120, 4096]
+The file ThumbnailExtractionHost.exe is legitimate
+Features used for classification:  [34404, 240, 35, 8, 0, 28672, 4096, 53248, 83136, 57344, 0, 5368709120, 4096]
+The file CNAB4RPD.EXE is malicious
+Features used for classification:  [34404, 240, 3106, 14, 30, 110592, 53248, 221184, 331920, 225280, 0, 5368709120, 4096]
+The file Setup.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 40960, 57424, 45056, 0, 5368709120, 4096]
+The file sort.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 65536, 91600, 69632, 0, 5368709120, 4096]
+The file compact.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 57344, 90112, 104240, 94208, 0, 5368709120, 4096]
+The file dpapimig.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 31, 237568, 4096, 413696, 650992, 417792, 0, 5368709120, 4096]
+The file atiesrxx.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 106496, 155648, 187744, 159744, 0, 5368709120, 4096]
+The file perfmon.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 41696, 36864, 0, 5368709120, 4096]
+The file dllhost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 94208, 155648, 186928, 159744, 0, 5368709120, 4096]
+The file msiexec.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 31, 188416, 4096, 339968, 528496, 344064, 0, 5368709120, 4096]
+The file atieah64.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 106496, 4096, 167936, 270912, 172032, 0, 5368709120, 4096]
+The file convertvhd.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 53248, 78240, 57344, 0, 5368709120, 4096]
+The file unsecapp.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 159744, 4096, 315392, 474800, 319488, 0, 5368709120, 4096]
+The file NgcIso.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 102400, 131072, 142880, 135168, 0, 5368709120, 4096]
+The file control.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 274432, 8192, 1150976, 1425552, 1155072, 0, 5368709120, 4096]
+The file PktMon.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 90112, 131072, 158752, 135168, 0, 5368709120, 4096]
+The file UserAccountControlSettings.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 8192, 36864, 54400, 40960, 0, 5368709120, 4096]
+The file bootim.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 94208, 159744, 219088, 163840, 0, 5368709120, 4096]
+The file fvenotify.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 40960, 59840, 45056, 0, 5368709120, 4096]
+The file timeout.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 135168, 4096, 270336, 405344, 274432, 0, 5368709120, 4096]
+The file GameBarPresenceWriter.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 69632, 28672, 126976, 198512, 131072, 0, 5368709120, 4096]
+The file cscript.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 8192, 49152, 70720, 53248, 0, 5368709120, 4096]
+The file mfpmp.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 40960, 59104, 45056, 0, 5368709120, 4096]
+The file RpcPing.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 77824, 4096, 135168, 215552, 139264, 0, 5368709120, 4096]
+The file FaceFodUninstaller.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 94208, 143360, 173648, 147456, 0, 5368709120, 4096]
+The file wextract.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 8192, 57344, 86656, 61440, 0, 5368709120, 4096]
+The file setx.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 61440, 4096, 114688, 176608, 118784, 0, 5368709120, 4096]
+The file CredentialUIBroker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 155648, 8192, 258048, 414144, 262144, 0, 5368709120, 4096]
+The file SgrmBroker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 36, 81920, 4096, 118784, 203456, 122880, 0, 5368709120, 4096]
+The file SmartSenseController.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 69632, 102400, 113808, 106496, 0, 5368709120, 4096]
+The file eventvwr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 20480, 53248, 70144, 57344, 0, 5368709120, 4096]
+The file Netplwiz.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 53248, 76976, 57344, 0, 5368709120, 4096]
+The file NETSTAT.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 8192, 36864, 53664, 40960, 0, 5368709120, 4096]
+The file VaultCmd.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 69632, 4096, 204800, 273952, 208896, 0, 5368709120, 4096]
+The file unregmp2.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 8192, 57344, 85872, 61440, 0, 5368709120, 4096]
+The file BdeUISrv.exe is legitimate
+Features used for classification:  [34404, 240, 8226, 14, 30, 208896, 8192, 376832, 588416, 380928, 0, 6442450944, 4096]
+The file ExecModelClient.dll is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 4096, 69632, 115360, 73728, 0, 5368709120, 4096]
+The file UserOOBEBroker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 65536, 78736, 69632, 0, 5368709120, 4096]
+The file ucsvc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 8192, 69632, 111776, 73728, 0, 5368709120, 4096]
+The file credwiz.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 41984, 36864, 0, 5368709120, 4096]
+The file dstokenclean.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 49040, 40960, 0, 5368709120, 4096]
+The file NDKPing.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 50448, 40960, 0, 5368709120, 4096]
+The file appidtel.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 69632, 8192, 122880, 191888, 126976, 0, 5368709120, 4096]
+The file directxdatabaseupdater.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 94208, 8192, 139264, 232944, 143360, 0, 5368709120, 4096]
+The file pcaui.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 4096, 81920, 125648, 86016, 0, 5368709120, 4096]
+The file wlanext.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 77824, 4096, 126976, 205280, 131072, 0, 5368709120, 4096]
+The file ChtIME.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 38016, 32768, 0, 5368709120, 4096]
+The file MigRegDB.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 90112, 90112, 212992, 304464, 217088, 0, 5368709120, 4096]
+The file rstrui.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 53248, 80480, 57344, 0, 5368709120, 4096]
+The file vdsldr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 0, 606208, 4096, 897024, 1505520, 901120, 0, 5368709120, 4096]
+The file notification_helper.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 126976, 8192, 188416, 314608, 192512, 0, 5368709120, 4096]
+The file WUDFHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 36512, 32768, 0, 5368709120, 4096]
+The file secinit.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 8192, 53248, 80336, 57344, 0, 5368709120, 4096]
+The file LicenseManagerShellext.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 8192, 49152, 73824, 53248, 0, 5368709120, 4096]
+The file svchost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 40960, 53520, 45056, 0, 5368709120, 4096]
+The file cmdkey.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 12288, 4096, 69632, 84272, 73728, 0, 5368709120, 4096]
+The file UDClientService.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 229376, 90112, 413696, 642752, 417792, 0, 5368709120, 4096]
+The file WerFault.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 40512, 36864, 0, 5368709120, 4096]
+The file SlideToShutDown.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 36864, 94208, 129184, 98304, 0, 5368709120, 4096]
+The file MicrosoftEdgeCP.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 61440, 98304, 200704, 263552, 204800, 0, 5368709120, 4096]
+The file ApproveChildRequest.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 131072, 8192, 266240, 399280, 270336, 0, 5368709120, 4096]
+The file SpeechRuntime.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 36432, 32768, 0, 5368709120, 4096]
+The file Locator.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 27, 557056, 4096, 1331200, 1887408, 1335296, 0, 5368709120, 4096]
+The file LNBITSSvc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 49152, 76080, 53248, 0, 5368709120, 4096]
+The file forfiles.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 225280, 57344, 471040, 698608, 475136, 0, 5368709120, 4096]
+The file SystemSettingsAdminFlows.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 73728, 118784, 138960, 122880, 0, 5368709120, 4096]
+The file mobsync.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 8192, 102400, 160864, 106496, 0, 5368709120, 4096]
+The file PickerHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 8192, 49152, 71392, 53248, 0, 5368709120, 4096]
+The file cttunesvr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 53248, 70576, 57344, 0, 5368709120, 4096]
+The file RdpSaUacHelper.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 40960, 55536, 45056, 0, 5368709120, 4096]
+The file comp.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 36272, 32768, 0, 5368709120, 4096]
+The file systray.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 4096, 53248, 81568, 57344, 0, 5368709120, 4096]
+The file cmdl32.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 90112, 4096, 147456, 239696, 151552, 0, 5368709120, 4096]
+The file LegacyNetUXHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 385024, 8192, 573440, 958608, 577536, 0, 5368709120, 4096]
+The file winlogon.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 36816, 32768, 0, 5368709120, 4096]
+The file winver.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 3047424, 4096, 1703936, 4750624, 1708032, 0, 5368709120, 4096]
+The file sppsvc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 4096, 81920, 131312, 86016, 0, 5368709120, 4096]
+The file EduPrintProv.exe is legitimate
+Features used for classification:  [332, 224, 258, 14, 16, 372736, 4096, 1269760, 1645760, 1273856, 1646592, 4194304, 4096]
+The file vulkaninfo-x86.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 53248, 86080, 57344, 0, 5368709120, 4096]
+The file MoNotificationUxStub.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 61440, 88992, 65536, 0, 5368709120, 4096]
+The file cipher.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 8192, 86016, 121952, 90112, 0, 5368709120, 4096]
+The file sessionmsg.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 73728, 4096, 253952, 328528, 258048, 0, 5368709120, 4096]
+The file bitsadmin.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 36, 184320, 8192, 270336, 454288, 274432, 0, 5368709120, 4096]
+The file SIHClient.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 8192, 98304, 145168, 102400, 0, 5368709120, 4096]
+The file dwm.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 86016, 4096, 122880, 210112, 126976, 0, 5368709120, 4096]
+The file ClipRenew.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 49152, 65552, 53248, 0, 5368709120, 4096]
+The file BackgroundTransferHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 4096, 65536, 108144, 69632, 0, 5368709120, 4096]
+The file LocationNotificationWindows.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 118784, 40960, 221184, 341456, 225280, 0, 5368709120, 4096]
+The file Dxpserver.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 40960, 58112, 45056, 0, 5368709120, 4096]
+The file setspn.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 14, 196608, 28672, 344064, 541488, 348160, 0, 5368709120, 4096]
+The file dgtrayicon.exe is legitimate
+Features used for classification:  [332, 224, 258, 14, 29, 1142784, 4096, 2592768, 3738272, 2596864, 3739648, 4194304, 4096]
+The file NvImageConvert32.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 16, 94208, 4096, 110592, 205712, 114688, 0, 5368709120, 4096]
+The file FMAPP.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 40848, 36864, 0, 5368709120, 4096]
+The file backgroundTaskHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 8192, 94208, 152032, 98304, 0, 5368709120, 4096]
+The file PinEnrollmentBroker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 40960, 60672, 45056, 0, 5368709120, 4096]
+The file AppInstallerBackgroundUpdate.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 8192, 53248, 79984, 57344, 0, 5368709120, 4096]
+The file TokenBrokerCookies.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 42688, 36864, 0, 5368709120, 4096]
+The file microsoft.windows.softwarelogo.showdesktop.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 118784, 61440, 167936, 288032, 172032, 0, 5368709120, 4096]
+The file PresentationHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 49152, 72688, 53248, 0, 5368709120, 4096]
+The file UserAccountBroker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 4096, 77824, 136592, 81920, 0, 5368709120, 4096]
+The file logagent.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 122880, 49152, 249856, 373168, 253952, 0, 5368709120, 4096]
+The file imecfmui.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 155648, 53248, 753664, 910400, 757760, 0, 5368709120, 4096]
+The file ChsIME.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 61440, 8192, 131072, 192416, 135168, 0, 5368709120, 4096]
+The file verifier.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 8192, 65536, 107088, 69632, 0, 5368709120, 4096]
+The file taskhostw.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 65536, 100848, 69632, 0, 5368709120, 4096]
+The file DiskSnapshot.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 196608, 241664, 271568, 245760, 0, 5368709120, 4096]
+The file SecurityHealthSystray.exe is legitimate
+Completed scanning file: bridgeunattend.exe
+Completed scanning file: driverquery.exe
+Completed scanning file: nvdispco64.exe
+Completed scanning file: CompMgmtLauncher.exe
+Completed scanning file: WlanHelper.exe
+Completed scanning file: CheckNetIsolation.exe
+Completed scanning file: wermgr.exe
+Completed scanning file: WindowsActionDialog.exe
+Completed scanning file: ApplyTrustOffline.exe
+Completed scanning file: SphericalEquirect64.exe
+Completed scanning file: msfeedssync.exe
+Completed scanning file: sxstrace.exe
+Completed scanning file: SysResetErr.exe
+Completed scanning file: CustomInstallExec.exe
+Completed scanning file: bcdboot.exe
+Completed scanning file: wkspbroker.exe
+Completed scanning file: fc.exe
+Completed scanning file: HOSTNAME.EXE
+Completed scanning file: shrpubw.exe
+Completed scanning file: sc.exe
+Completed scanning file: rekeywiz.exe
+Completed scanning file: UPPrinterInstaller.exe
+Completed scanning file: LiveCaptions.exe
+Completed scanning file: msoobe.exe
+Completed scanning file: GameInputSvc.exe
+Completed scanning file: certreq.exe
+Completed scanning file: sigverif.exe
+Completed scanning file: FsIso.exe
+Completed scanning file: immersivetpmvscmgrsvr.exe
+Completed scanning file: efsui.exe
+Completed scanning file: pnputil.exe
+Completed scanning file: VoiceAccess.exe
+Completed scanning file: dasHost.exe
+Completed scanning file: WWAHost.exe
+Completed scanning file: rdrleakdiag.exe
+Completed scanning file: ttdinject.exe
+Completed scanning file: amdsmi.exe
+Completed scanning file: TieringEngineService.exe
+Completed scanning file: browserexport.exe
+Completed scanning file: MdmDiagnosticsTool.exe
+Completed scanning file: UDCInfDeviceHelper.exe
+Completed scanning file: sftp.exe
+Completed scanning file: EhStorAuthn.exe
+Completed scanning file: SrTasks.exe
+Completed scanning file: WmiApSrv.exe
+Completed scanning file: SecurityHealthService.exe
+Completed scanning file: UserDataSource.exe
+Completed scanning file: cacls.exe
+Completed scanning file: XblGameSaveTask.exe
+Completed scanning file: MDMAgent.exe
+Completed scanning file: ftp.exe
+Completed scanning file: amdlogum.exe
+Completed scanning file: wbengine.exe
+Completed scanning file: EASPolicyManagerBrokerHost.exe
+Completed scanning file: ie4uinit.exe
+Completed scanning file: licensingdiag.exe
+Completed scanning file: OpenWith.exe
+Completed scanning file: tpmvscmgr.exe
+Completed scanning file: runas.exe
+Completed scanning file: fontdrvhost.exe
+Completed scanning file: SndVol.exe
+Completed scanning file: RecoveryDrive.exe
+Completed scanning file: CPC10DA4.EXE
+Completed scanning file: WinBioDataModelOOBE.exe
+Completed scanning file: AMDNoiseSuppression.exe
+Completed scanning file: appidpolicyconverter.exe
+Completed scanning file: mountvol.exe
+Completed scanning file: pcalua.exe
+Completed scanning file: recdisc.exe
+Completed scanning file: PnPUnattend.exe
+Completed scanning file: omadmclient.exe
+Completed scanning file: vds.exe
+Completed scanning file: VSSVC.exe
+Completed scanning file: MSchedExe.exe
+Completed scanning file: msinfo32.exe
+Completed scanning file: UIMgrBroker.exe
+Completed scanning file: proquota.exe
+Completed scanning file: esimtool.exe
+Completed scanning file: WindowsUpdateElevatedInstaller.exe
+Completed scanning file: PerceptionSimulationInput.exe
+Completed scanning file: wiawow64.exe
+Completed scanning file: consent.exe
+Completed scanning file: provtool.exe
+Completed scanning file: DisplaySwitch.exe
+Completed scanning file: CertEnrollCtrl.exe
+Completed scanning file: calc.exe
+Completed scanning file: cliconfg.exe
+Completed scanning file: regsvr32.exe
+Completed scanning file: ie4ushowIE.exe
+Completed scanning file: TSTheme.exe
+Completed scanning file: wpnpinst.exe
+Completed scanning file: ThumbnailExtractionHost.exe
+Completed scanning file: CIDiag.exe
+Completed scanning file: LenovoUtilityService.exe
+Completed scanning file: pcwrun.exe
+Completed scanning file: CNAB4RPD.EXE
+Completed scanning file: Setup.exe
+Completed scanning file: compact.exe
+Completed scanning file: sort.exe
+Completed scanning file: dpapimig.exe
+Completed scanning file: atiesrxx.exe
+Completed scanning file: perfmon.exe
+Completed scanning file: dllhost.exe
+Completed scanning file: msiexec.exe
+Completed scanning file: atieah64.exe
+Completed scanning file: convertvhd.exe
+Completed scanning file: unsecapp.exe
+Completed scanning file: NgcIso.exe
+Completed scanning file: control.exe
+Completed scanning file: bootim.exe
+Completed scanning file: PktMon.exe
+Completed scanning file: UserAccountControlSettings.exe
+Completed scanning file: fvenotify.exe
+Completed scanning file: timeout.exe
+Completed scanning file: GameBarPresenceWriter.exe
+Completed scanning file: cscript.exe
+Completed scanning file: FaceFodUninstaller.exe
+Completed scanning file: mfpmp.exe
+Completed scanning file: RpcPing.exe
+Completed scanning file: wextract.exe
+Completed scanning file: setx.exe
+Completed scanning file: CredentialUIBroker.exe
+Completed scanning file: SmartSenseController.exe
+Completed scanning file: SgrmBroker.exe
+Completed scanning file: eventvwr.exe
+Completed scanning file: NETSTAT.EXE
+Completed scanning file: Netplwiz.exe
+Completed scanning file: VaultCmd.exe
+Completed scanning file: unregmp2.exe
+Completed scanning file: BdeUISrv.exe
+Completed scanning file: ExecModelClient.dll
+Completed scanning file: UserOOBEBroker.exe
+Completed scanning file: ucsvc.exe
+Completed scanning file: dstokenclean.exe
+Completed scanning file: credwiz.exe
+Completed scanning file: NDKPing.exe
+Completed scanning file: directxdatabaseupdater.exe
+Completed scanning file: appidtel.exe
+Completed scanning file: pcaui.exe
+Completed scanning file: wlanext.exe
+Completed scanning file: ChtIME.exe
+Completed scanning file: MigRegDB.exe
+Completed scanning file: rstrui.exe
+Completed scanning file: vdsldr.exe
+Completed scanning file: WUDFHost.exe
+Completed scanning file: notification_helper.exe
+Completed scanning file: secinit.exe
+Completed scanning file: LicenseManagerShellext.exe
+Completed scanning file: cmdkey.exe
+Completed scanning file: svchost.exe
+Completed scanning file: UDClientService.exe
+Completed scanning file: WerFault.exe
+Completed scanning file: SlideToShutDown.exe
+Completed scanning file: MicrosoftEdgeCP.exe
+Completed scanning file: ApproveChildRequest.exe
+Completed scanning file: SpeechRuntime.exe
+Completed scanning file: forfiles.exe
+Completed scanning file: Locator.exe
+Completed scanning file: LNBITSSvc.exe
+Completed scanning file: SystemSettingsAdminFlows.exe
+Completed scanning file: mobsync.exe
+Completed scanning file: PickerHost.exe
+Completed scanning file: cttunesvr.exe
+Completed scanning file: RdpSaUacHelper.exe
+Completed scanning file: systray.exe
+Completed scanning file: comp.exe
+Completed scanning file: cmdl32.exe
+Completed scanning file: LegacyNetUXHost.exe
+Completed scanning file: winlogon.exe
+Completed scanning file: winver.exe
+Completed scanning file: EduPrintProv.exe
+Completed scanning file: sppsvc.exe
+Completed scanning file: vulkaninfo-x86.exe
+Completed scanning file: MoNotificationUxStub.exe
+Completed scanning file: cipher.exe
+Completed scanning file: sessionmsg.exe
+Completed scanning file: bitsadmin.exe
+Completed scanning file: SIHClient.exe
+Completed scanning file: dwm.exe
+Completed scanning file: ClipRenew.exe
+Completed scanning file: BackgroundTransferHost.exe
+Completed scanning file: LocationNotificationWindows.exe
+Completed scanning file: dgtrayicon.exe
+Completed scanning file: Dxpserver.exe
+Completed scanning file: setspn.exe
+Completed scanning file: NvImageConvert32.exe
+Completed scanning file: FMAPP.exe
+Completed scanning file: backgroundTaskHost.exe
+Completed scanning file: PinEnrollmentBroker.exe
+Completed scanning file: microsoft.windows.softwarelogo.showdesktop.exe
+Completed scanning file: AppInstallerBackgroundUpdate.exe
+Completed scanning file: TokenBrokerCookies.exe
+Completed scanning file: PresentationHost.exe
+Completed scanning file: UserAccountBroker.exe
+Completed scanning file: logagent.exe
+Completed scanning file: imecfmui.exe
+Completed scanning file: ChsIME.exe
+Completed scanning file: taskhostw.exe
+Completed scanning file: verifier.exe
+Completed scanning file: DiskSnapshot.exe
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 77824, 102400, 110064, 106496, 0, 5368709120, 4096]
+The file SystemPropertiesDataExecutionPrevention.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 327680, 8192, 430080, 758048, 434176, 0, 5368709120, 4096]
+The file services.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 8192, 73728, 121664, 77824, 0, 5368709120, 4096]
+The file ByteCodeGenerator.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 32768, 69632, 94320, 73728, 0, 5368709120, 4096]
+The file TpmInit.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 8192, 49152, 72384, 53248, 0, 5368709120, 4096]
+The file unlodctr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 81920, 94208, 221184, 302464, 225280, 0, 5368709120, 4096]
+The file SearchFilterHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 57344, 98304, 124704, 102400, 0, 5368709120, 4096]
+The file DevicePairingWizard.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 40960, 57056, 45056, 0, 5368709120, 4096]
+The file fltMC.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 77824, 102400, 110080, 106496, 0, 5368709120, 4096]
+The file SystemPropertiesComputerName.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 57344, 93232, 61440, 0, 5368709120, 4096]
+The file LaunchWinApp.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 73728, 4096, 126976, 200032, 131072, 0, 5368709120, 4096]
+The file MDMAppInstaller.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 8192, 77824, 118000, 81920, 0, 5368709120, 4096]
+The file oobeldr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 1327104, 36864, 4788224, 6114720, 4792320, 0, 5368709120, 4096]
+The file VsGraphicsDesktopEngine.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 16384, 110592, 168352, 114688, 0, 5368709120, 4096]
+The file raserver.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 8192, 53248, 81840, 57344, 0, 5368709120, 4096]
+The file relog.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 4096, 53248, 84320, 57344, 0, 5368709120, 4096]
+The file appidcertstorecheck.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 151552, 4096, 352256, 503728, 356352, 0, 5368709120, 4096]
+The file bcdedit.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 8192, 61440, 94976, 65536, 0, 5368709120, 4096]
+The file ApplicationFrameHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 48608, 40960, 0, 5368709120, 4096]
+The file doskey.exe is legitimate
+Features used for classification:  [34404, 240, 3106, 14, 30, 126976, 4096, 221184, 350144, 225280, 0, 5368709120, 4096]
+The file MBR2GPT.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 36864, 73728, 87984, 77824, 0, 5368709120, 4096]
+The file wsqmcons.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 51936, 40960, 0, 5368709120, 4096]
+The file odbcconf.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 233472, 53248, 487424, 720544, 491520, 0, 5368709120, 4096]
+The file IMJPDCT.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 36, 65536, 40960, 217088, 282800, 221184, 0, 5368709120, 4096]
+The file FnHotkeyCapsLKNumLK.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 8192, 81920, 124800, 86016, 0, 5368709120, 4096]
+The file DeviceCredentialDeployment.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 65536, 8192, 122880, 189200, 126976, 0, 5368709120, 4096]
+The file UtcDecoderHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 51456, 40960, 0, 5368709120, 4096]
+The file diskperf.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 8192, 77824, 126816, 81920, 0, 5368709120, 4096]
+The file userinit.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 14, 282624, 4096, 462848, 747696, 466944, 0, 5368709120, 4096]
+The file dbInstaller.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 4096, 73728, 121712, 77824, 0, 5368709120, 4096]
+The file cttune.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 77824, 8192, 139264, 217728, 143360, 0, 5368709120, 4096]
+The file dmcertinst.exe is legitimate
+Features used for classification:  [34404, 240, 3106, 14, 30, 90112, 4096, 184320, 275200, 188416, 0, 5368709120, 4096]
+The file SetupPlatform.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 4096, 69632, 113360, 73728, 0, 5368709120, 4096]
+The file fodhelper.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 43504, 36864, 0, 5368709120, 4096]
+The file icsunattend.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 43552, 36864, 0, 5368709120, 4096]
+The file MRINFO.EXE is legitimate
+Features used for classification:  [34404, 240, 35, 8, 0, 102400, 8192, 421888, 524304, 425984, 0, 5368709120, 4096]
+The file CNAB4SWD.EXE is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 57344, 90080, 61440, 0, 5368709120, 4096]
+The file UsoClient.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 61440, 85408, 65536, 0, 5368709120, 4096]
+The file xcopy.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 36, 102400, 4096, 212992, 317408, 217088, 0, 5368709120, 4096]
+The file UserSSCtrl.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 86016, 4096, 131072, 218048, 135168, 0, 5368709120, 4096]
+The file rdpinput.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 57344, 77824, 86368, 81920, 0, 5368709120, 4096]
+The file printui.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 126976, 53248, 299008, 428736, 303104, 0, 5368709120, 4096]
+The file IMEPADSV.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 81920, 49152, 176128, 257984, 180224, 0, 5368709120, 4096]
+The file IMESEARCH.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 8192, 118784, 152976, 122880, 0, 4320133120, 4096]
+The file netsh.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 40912, 36864, 0, 5368709120, 4096]
+The file FirstLogonAnim.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 4096, 49152, 77072, 53248, 0, 5368709120, 4096]
+The file SgrmLpac.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 90112, 8192, 143360, 236512, 147456, 0, 5368709120, 4096]
+The file w32tm.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 57344, 81920, 90624, 86016, 0, 5368709120, 4096]
+The file ntprint.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 16, 282624, 8192, 503808, 789408, 507904, 0, 5368709120, 4096]
+The file RtkBtManServ.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 49184, 40960, 0, 5368709120, 4096]
+The file NDKPerfCmd.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 61440, 8192, 122880, 187056, 126976, 0, 5368709120, 4096]
+The file wifitask.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 73728, 8192, 118784, 195312, 122880, 0, 5368709120, 4096]
+The file SpatialAudioLicenseSrv.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 36864, 94208, 129184, 98304, 0, 5368709120, 4096]
+The file MicrosoftEdgeBCHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 48432, 40960, 0, 5368709120, 4096]
+The file rasautou.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 45056, 65856, 49152, 0, 5368709120, 4096]
+The file klist.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 8192, 65536, 104368, 69632, 0, 5368709120, 4096]
+The file sdchange.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 42000, 36864, 0, 5368709120, 4096]
+The file RemotePosWorker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 8192, 81920, 124608, 86016, 0, 5368709120, 4096]
+The file SystemUWPLauncher.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 53248, 8192, 106496, 162928, 110592, 0, 5368709120, 4096]
+The file setupugc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 36864, 48032, 40960, 0, 5368709120, 4096]
+The file ktmutil.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 77824, 4096, 94208, 172032, 98304, 0, 5368709120, 4096]
+The file NpcapHelper.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 122880, 4096, 241664, 364976, 245760, 0, 5368709120, 4096]
+The file LsaIso.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 4096, 73728, 118736, 77824, 0, 5368709120, 4096]
+The file makecab.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 45056, 68016, 49152, 0, 5368709120, 4096]
+The file waitfor.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 49008, 40960, 0, 5368709120, 4096]
+The file mpnotify.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 249856, 81920, 249856, 499648, 253952, 0, 5368709120, 4096]
+The file SpeechUXWiz.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 8192, 45056, 60416, 49152, 0, 5368709120, 4096]
+The file shutdown.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 663552, 98304, 1286144, 1952352, 1290240, 0, 5368709120, 4096]
+The file mmc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 135168, 40960, 307200, 443296, 311296, 0, 5368709120, 4096]
+The file cmd.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 40320, 36864, 0, 5368709120, 4096]
+The file NetHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 8192, 45056, 67360, 49152, 0, 5368709120, 4096]
+The file browser_broker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 0, 176128, 4096, 315392, 491632, 319488, 0, 5368709120, 4096]
+The file ssh-agent.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 49152, 76912, 53248, 0, 5368709120, 4096]
+The file pospaymentsworker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 188416, 8192, 307200, 495840, 311296, 0, 5368709120, 4096]
+The file esentutl.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 45056, 63504, 49152, 0, 5368709120, 4096]
+The file dnscacheugc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 90112, 4096, 126976, 217200, 131072, 0, 5368709120, 4096]
+The file sdbinst.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 32768, 73728, 97232, 77824, 0, 5368709120, 4096]
+The file xwizard.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 53248, 86304, 57344, 0, 5368709120, 4096]
+The file provlaunch.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 303104, 8192, 962560, 1268032, 966656, 0, 5368709120, 4096]
+The file SensorDataService.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 229376, 8192, 356352, 584864, 360448, 0, 5368709120, 4096]
+The file wininit.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 8192, 110592, 142848, 114688, 0, 5368709120, 4096]
+The file djoin.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 233472, 8192, 376832, 609952, 380928, 0, 5368709120, 4096]
+The file msdt.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 65536, 94208, 200704, 268992, 204800, 0, 5368709120, 4096]
+The file manage-bde.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 49152, 71216, 53248, 0, 5368709120, 4096]
+The file ksetup.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 43248, 36864, 0, 5368709120, 4096]
+The file tcmsetup.exe is legitimate
+Features used for classification:  [34404, 240, 35, 9, 0, 114688, 4096, 184320, 300416, 188416, 0, 5368709120, 4096]
+The file nvdebugdump.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 77824, 102400, 110080, 106496, 0, 5368709120, 4096]
+The file SystemPropertiesProtection.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 8192, 49152, 72832, 53248, 0, 5368709120, 4096]
+The file eventcreate.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 282624, 8192, 503808, 788496, 507904, 0, 5368709120, 4096]
+The file Spectrum.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 49152, 71712, 53248, 0, 5368709120, 4096]
+The file cmmon32.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 110592, 8192, 159744, 271744, 163840, 0, 5368709120, 4096]
+The file DWWIN.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 40960, 58400, 45056, 0, 5368709120, 4096]
+The file at.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 86016, 110592, 118576, 114688, 0, 5368709120, 4096]
+The file DeviceProperties.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 90112, 4096, 155648, 246368, 159744, 0, 5368709120, 4096]
+The file spaceutil.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 1396736, 8192, 1417216, 2813168, 1421312, 0, 5368709120, 4096]
+The file WinSAT.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 42832, 36864, 0, 5368709120, 4096]
+The file finger.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 24576, 33296, 28672, 0, 5368709120, 4096]
+The file ResetEngine.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 53248, 77824, 85440, 81920, 0, 5368709120, 4096]
+The file hdwwiz.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 61440, 8192, 98304, 160672, 102400, 0, 5368709120, 4096]
+The file desktopimgdownldr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 45056, 65200, 49152, 0, 5368709120, 4096]
+The file deploymentcsphelper.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 770048, 8192, 360448, 1133504, 364544, 0, 5368709120, 4096]
+The file ClipUp.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 159744, 45056, 315392, 475248, 319488, 0, 5368709120, 4096]
+The file IMCCPHR.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 53248, 86016, 163840, 216752, 167936, 0, 5368709120, 4096]
+The file WerFaultSecure.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 40960, 61376, 45056, 0, 5368709120, 4096]
+The file choice.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 544768, 122880, 581632, 1126000, 585728, 0, 5368709120, 4096]
+The file sdclt.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 36, 32768, 4096, 53248, 86608, 57344, 0, 5368709120, 4096]
+The file UCPDMgr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 163840, 8192, 417792, 580752, 421888, 0, 5368709120, 4096]
+The file tracerpt.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 208896, 57344, 417792, 627552, 421888, 0, 5368709120, 4096]
+The file msra.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 45056, 58512, 49152, 0, 5368709120, 4096]
+The file chkdsk.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 73728, 4096, 98304, 173408, 102400, 0, 5368709120, 4096]
+The file LicensingUI.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 266240, 8192, 344064, 610176, 348160, 0, 5368709120, 4096]
+The file wimserv.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 143360, 8192, 278528, 422800, 282624, 0, 5368709120, 4096]
+The file CredentialEnrollmentManager.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 36, 385024, 4096, 540672, 927824, 544768, 0, 5368709120, 4096]
+The file MpSigStub.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 61440, 49152, 155648, 217152, 159744, 0, 5368709120, 4096]
+The file IMJPSET.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 671744, 81920, 933888, 1605504, 937984, 0, 5368709120, 4096]
+The file WMPDMC.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 61440, 57344, 159744, 220784, 163840, 0, 5368709120, 4096]
+The file SystemSettingsBroker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 49152, 76640, 53248, 0, 5368709120, 4096]
+The file diskusage.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 548864, 8192, 876544, 1424816, 880640, 0, 5368709120, 4096]
+The file mstsc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 40960, 75840, 45056, 0, 5368709120, 4096]
+The file SecureBootEncodeUEFI.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 27, 212992, 4096, 278528, 494320, 282624, 0, 5368709120, 4096]
+The file AutoModeDetect.exe is legitimate
+Features used for classification:  [34404, 240, 35, 8, 0, 315392, 40960, 602112, 919424, 606208, 0, 5368709120, 4096]
+The file CPC10VA4.EXE is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 51104, 40960, 0, 5368709120, 4096]
+The file ROUTE.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 94208, 8192, 176128, 270048, 180224, 0, 5368709120, 4096]
+The file schtasks.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 4096, 61440, 99328, 65536, 0, 5368709120, 4096]
+The file openfiles.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 73728, 102400, 113952, 106496, 0, 5368709120, 4096]
+The file MdRes.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 36864, 94208, 136128, 98304, 0, 5368709120, 4096]
+The file InputSwitchToastHandler.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 360448, 12288, 1024000, 1387504, 1028096, 0, 5368709120, 4096]
+The file sysprep.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 4096, 69632, 112144, 73728, 0, 5368709120, 4096]
+The file SensorRuntimeBroker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 45056, 66016, 49152, 0, 5368709120, 4096]
+The file lpkinstall.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 36, 20480, 4096, 45056, 65536, 49152, 0, 5368709120, 4096]
+The file wuapihost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 51600, 40960, 0, 5368709120, 4096]
+The file ARP.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 28672, 110592, 161488, 114688, 0, 5368709120, 4096]
+The file wlrmdr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 8192, 49152, 69392, 53248, 0, 5368709120, 4096]
+The file SystemSettingsRemoveDevice.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 573440, 596000, 577536, 0, 5368709120, 4096]
+The file findstr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 163840, 8192, 229376, 396304, 233472, 0, 5368709120, 4096]
+The file drvinst.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 40960, 63360, 45056, 0, 5368709120, 4096]
+The file extrac32.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 4096, 86016, 134384, 90112, 0, 5368709120, 4096]
+The file dccw.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 118784, 65536, 184320, 303712, 188416, 0, 5368709120, 4096]
+The file cleanmgr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 278528, 4096, 253952, 532160, 258048, 0, 5368709120, 4096]
+The file RMActivate_ssp.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 1306624, 4096, 2826240, 4132016, 2830336, 0, 5368709120, 4096]
+The file HighresBlender64.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 90112, 122880, 140528, 126976, 0, 5368709120, 4096]
+The file Fondue.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 344064, 8192, 892928, 1236224, 897024, 0, 5368709120, 4096]
+The file DXCap.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 65536, 4096, 110592, 176976, 114688, 0, 5368709120, 4096]
+The file EDPCleanup.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 40960, 59728, 45056, 0, 5368709120, 4096]
+The file clip.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 110592, 8192, 180224, 291104, 184320, 0, 5368709120, 4096]
+The file ProximityUxHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 102400, 176128, 221072, 180224, 0, 5368709120, 4096]
+The file msdtc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 31, 229376, 4096, 393216, 622464, 397312, 0, 5368709120, 4096]
+The file amdfendrsr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 139264, 57344, 307200, 445616, 311296, 0, 5368709120, 4096]
+The file UNPUXLauncher.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 45056, 60800, 49152, 0, 5368709120, 4096]
+The file winrshost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 1265664, 4096, 2764800, 4029600, 2768896, 0, 5368709120, 4096]
+The file FreqTransfer64.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 69632, 103712, 73728, 0, 5368709120, 4096]
+The file ieUnatt.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 36, 94208, 4096, 126976, 220384, 131072, 0, 5368709120, 4096]
+The file SmartSense.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 73728, 98304, 106448, 102400, 0, 5368709120, 4096]
+The file DpiScaling.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 41888, 36864, 0, 5368709120, 4096]
+The file recover.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 45056, 61536, 49152, 0, 5368709120, 4096]
+The file gpupdate.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 8192, 86016, 132064, 90112, 0, 5368709120, 4096]
+The file wecutil.exe is legitimate
+Features used for classification:  [34404, 240, 35, 8, 0, 24576, 4096, 49152, 76528, 53248, 0, 5368709120, 4096]
+The file CNAB4LAD.EXE is malicious
+Features used for classification:  [34404, 240, 34, 14, 0, 327680, 4096, 630784, 958896, 634880, 0, 5368709120, 4096]
+The file ssh-keygen.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 172032, 8192, 307200, 479936, 311296, 0, 5368709120, 4096]
+The file dsregcmd.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 49152, 74144, 53248, 0, 5368709120, 4096]
+The file winrs.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 53248, 94208, 119392, 98304, 0, 5368709120, 4096]
+The file OOBE-Maintenance.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 44048, 36864, 0, 5368709120, 4096]
+The file Eap3Host.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 57344, 75840, 61440, 0, 5368709120, 4096]
+The file ddodiag.exe is legitimate
+Features used for classification:  [34404, 240, 35, 8, 0, 331776, 303104, 1019904, 1351536, 1024000, 0, 5368709120, 4096]
+The file CNAB4UND.EXE is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 65536, 69632, 184320, 250848, 188416, 0, 5368709120, 4096]
+The file wbemtest.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 94208, 118784, 127904, 122880, 0, 5368709120, 4096]
+The file BitLockerWizardElev.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 36864, 46064, 40960, 0, 5368709120, 4096]
+The file LogonUI.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 16, 512000, 4096, 1687552, 2202656, 1691648, 0, 5368709120, 4096]
+The file vulkaninfo-x64.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 4096, 4096, 32768, 40032, 36864, 0, 5368709120, 4096]
+The file wscadminui.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 65536, 100816, 69632, 0, 5368709120, 4096]
+The file Windows.WARP.JITService.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 339968, 4096, 626688, 966032, 630784, 0, 5368709120, 4096]
+The file ReShadeFXC64.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 90112, 122880, 140320, 126976, 0, 5368709120, 4096]
+The file OptionalFeatures.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 1257472, 4096, 2752512, 4009184, 2756608, 0, 5368709120, 4096]
+The file NvImageConvert64.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 8192, 49152, 75264, 53248, 0, 5368709120, 4096]
+The file scrcons.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 249856, 110592, 397312, 647744, 401408, 0, 5368709120, 4096]
+The file slui.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 53248, 4096, 86016, 140000, 90112, 0, 5368709120, 4096]
+The file wslg.exe is legitimate
+Features used for classification:  [34404, 240, 3106, 14, 30, 98304, 8192, 180224, 278928, 184320, 0, 5368709120, 4096]
+The file PkgMgr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 65536, 8192, 106496, 171920, 110592, 0, 5368709120, 4096]
+The file dmclient.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 0, 487424, 4096, 794624, 1282736, 798720, 0, 5368709120, 4096]
+The file ssh.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 29, 172032, 4096, 679936, 852592, 684032, 0, 5368709120, 4096]
+The file vulkaninfo-1-999-0-0-0.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 65536, 8192, 143360, 210864, 147456, 0, 5368709120, 4096]
+The file SpeechModelDownload.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 36864, 54880, 40960, 0, 5368709120, 4096]
+The file RunLegacyCPLElevated.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 57344, 79104, 61440, 0, 5368709120, 4096]
+The file netcfg.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 86016, 155648, 195024, 159744, 0, 5368709120, 4096]
+The file wusa.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 81920, 106496, 114096, 110592, 0, 5368709120, 4096]
+The file colorcpl.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 1937408, 4096, 1339392, 3279056, 1343488, 0, 5368709120, 4096]
+The file aitstatic.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 131072, 4096, 245760, 377056, 249856, 0, 5368709120, 4096]
+The file UpdateNotificationMgr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 45056, 67888, 49152, 0, 5368709120, 4096]
+The file IcsEntitlementHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 77824, 102400, 110160, 106496, 0, 5368709120, 4096]
+The file SystemPropertiesPerformance.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 843776, 8192, 1658880, 2503920, 1662976, 0, 5368709120, 4096]
+The file DAX3API.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 8192, 139264, 198624, 143360, 0, 5368709120, 4096]
+The file mtstocom.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 61440, 110592, 149072, 114688, 0, 5368709120, 4096]
+The file isoburn.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 4096, 106496, 158624, 110592, 0, 5368709120, 4096]
+The file CompPkgSrv.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 61440, 8192, 98304, 161920, 102400, 0, 5368709120, 4096]
+The file DeviceCensus.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 114688, 8192, 200704, 317408, 204800, 0, 5368709120, 4096]
+The file DataExchangeHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 43104, 36864, 0, 5368709120, 4096]
+The file fsavailux.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 454656, 4096, 147456, 604016, 151552, 0, 5368709120, 4096]
+The file SppExtComObj.Exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 40960, 60080, 45056, 0, 5368709120, 4096]
+The file pwlauncher.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 53248, 8192, 98304, 154528, 102400, 0, 5368709120, 4096]
+The file rmttpmvscmgrsvr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 45056, 62448, 49152, 0, 5368709120, 4096]
+The file mofcomp.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 32768, 45248, 36864, 0, 5368709120, 4096]
+The file attrib.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 61440, 4096, 118784, 182192, 122880, 0, 5368709120, 4096]
+The file TpmTool.exe is legitimate
+Completed scanning file: SecurityHealthSystray.exe
+Completed scanning file: SystemPropertiesDataExecutionPrevention.exe
+Completed scanning file: services.exe
+Completed scanning file: ByteCodeGenerator.exe
+Completed scanning file: SearchFilterHost.exe
+Completed scanning file: TpmInit.exe
+Completed scanning file: unlodctr.exe
+Completed scanning file: DevicePairingWizard.exe
+Completed scanning file: fltMC.exe
+Completed scanning file: LaunchWinApp.exe
+Completed scanning file: SystemPropertiesComputerName.exe
+Completed scanning file: MDMAppInstaller.exe
+Completed scanning file: oobeldr.exe
+Completed scanning file: VsGraphicsDesktopEngine.exe
+Completed scanning file: raserver.exe
+Completed scanning file: relog.exe
+Completed scanning file: appidcertstorecheck.exe
+Completed scanning file: doskey.exe
+Completed scanning file: bcdedit.exe
+Completed scanning file: wsqmcons.exe
+Completed scanning file: ApplicationFrameHost.exe
+Completed scanning file: MBR2GPT.EXE
+Completed scanning file: odbcconf.exe
+Completed scanning file: DeviceCredentialDeployment.exe
+Completed scanning file: IMJPDCT.EXE
+Completed scanning file: FnHotkeyCapsLKNumLK.exe
+Completed scanning file: UtcDecoderHost.exe
+Completed scanning file: diskperf.exe
+Completed scanning file: userinit.exe
+Completed scanning file: dbInstaller.exe
+Completed scanning file: cttune.exe
+Completed scanning file: dmcertinst.exe
+Completed scanning file: SetupPlatform.exe
+Completed scanning file: fodhelper.exe
+Completed scanning file: icsunattend.exe
+Completed scanning file: MRINFO.EXE
+Completed scanning file: CNAB4SWD.EXE
+Completed scanning file: UsoClient.exe
+Completed scanning file: xcopy.exe
+Completed scanning file: UserSSCtrl.exe
+Completed scanning file: rdpinput.exe
+Completed scanning file: printui.exe
+Completed scanning file: netsh.exe
+Completed scanning file: IMEPADSV.EXE
+Completed scanning file: IMESEARCH.EXE
+Completed scanning file: FirstLogonAnim.exe
+Completed scanning file: SgrmLpac.exe
+Completed scanning file: ntprint.exe
+Completed scanning file: w32tm.exe
+Completed scanning file: NDKPerfCmd.exe
+Completed scanning file: RtkBtManServ.exe
+Completed scanning file: wifitask.exe
+Completed scanning file: SpatialAudioLicenseSrv.exe
+Completed scanning file: MicrosoftEdgeBCHost.exe
+Completed scanning file: rasautou.exe
+Completed scanning file: klist.exe
+Completed scanning file: sdchange.exe
+Completed scanning file: RemotePosWorker.exe
+Completed scanning file: setupugc.exe
+Completed scanning file: SystemUWPLauncher.exe
+Completed scanning file: ktmutil.exe
+Completed scanning file: NpcapHelper.exe
+Completed scanning file: LsaIso.exe
+Completed scanning file: waitfor.exe
+Completed scanning file: makecab.exe
+Completed scanning file: mpnotify.exe
+Completed scanning file: SpeechUXWiz.exe
+Completed scanning file: mmc.exe
+Completed scanning file: shutdown.exe
+Completed scanning file: cmd.exe
+Completed scanning file: NetHost.exe
+Completed scanning file: browser_broker.exe
+Completed scanning file: ssh-agent.exe
+Completed scanning file: pospaymentsworker.exe
+Completed scanning file: esentutl.exe
+Completed scanning file: dnscacheugc.exe
+Completed scanning file: sdbinst.exe
+Completed scanning file: xwizard.exe
+Completed scanning file: SensorDataService.exe
+Completed scanning file: provlaunch.exe
+Completed scanning file: djoin.exe
+Completed scanning file: wininit.exe
+Completed scanning file: msdt.exe
+Completed scanning file: ksetup.exe
+Completed scanning file: manage-bde.exe
+Completed scanning file: tcmsetup.exe
+Completed scanning file: SystemPropertiesProtection.exe
+Completed scanning file: nvdebugdump.exe
+Completed scanning file: eventcreate.exe
+Completed scanning file: Spectrum.exe
+Completed scanning file: cmmon32.exe
+Completed scanning file: DWWIN.EXE
+Completed scanning file: spaceutil.exe
+Completed scanning file: WinSAT.exe
+Completed scanning file: DeviceProperties.exe
+Completed scanning file: at.exe
+Completed scanning file: finger.exe
+Completed scanning file: ResetEngine.exe
+Completed scanning file: desktopimgdownldr.exe
+Completed scanning file: hdwwiz.exe
+Completed scanning file: deploymentcsphelper.exe
+Completed scanning file: ClipUp.exe
+Completed scanning file: sdclt.exe
+Completed scanning file: IMCCPHR.exe
+Completed scanning file: WerFaultSecure.exe
+Completed scanning file: choice.exe
+Completed scanning file: UCPDMgr.exe
+Completed scanning file: tracerpt.exe
+Completed scanning file: msra.exe
+Completed scanning file: chkdsk.exe
+Completed scanning file: LicensingUI.exe
+Completed scanning file: wimserv.exe
+Completed scanning file: CredentialEnrollmentManager.exe
+Completed scanning file: MpSigStub.exe
+Completed scanning file: IMJPSET.EXE
+Completed scanning file: SystemSettingsBroker.exe
+Completed scanning file: WMPDMC.exe
+Completed scanning file: diskusage.exe
+Completed scanning file: AutoModeDetect.exe
+Completed scanning file: mstsc.exe
+Completed scanning file: CPC10VA4.EXE
+Completed scanning file: SecureBootEncodeUEFI.exe
+Completed scanning file: openfiles.exe
+Completed scanning file: ROUTE.EXE
+Completed scanning file: schtasks.exe
+Completed scanning file: MdRes.exe
+Completed scanning file: InputSwitchToastHandler.exe
+Completed scanning file: sysprep.exe
+Completed scanning file: SensorRuntimeBroker.exe
+Completed scanning file: lpkinstall.exe
+Completed scanning file: wuapihost.exe
+Completed scanning file: ARP.EXE
+Completed scanning file: SystemSettingsRemoveDevice.exe
+Completed scanning file: drvinst.exe
+Completed scanning file: wlrmdr.exe
+Completed scanning file: findstr.exe
+Completed scanning file: extrac32.exe
+Completed scanning file: dccw.exe
+Completed scanning file: cleanmgr.exe
+Completed scanning file: RMActivate_ssp.exe
+Completed scanning file: HighresBlender64.exe
+Completed scanning file: Fondue.exe
+Completed scanning file: DXCap.exe
+Completed scanning file: clip.exe
+Completed scanning file: EDPCleanup.exe
+Completed scanning file: ProximityUxHost.exe
+Completed scanning file: msdtc.exe
+Completed scanning file: amdfendrsr.exe
+Completed scanning file: UNPUXLauncher.exe
+Completed scanning file: FreqTransfer64.exe
+Completed scanning file: winrshost.exe
+Completed scanning file: ieUnatt.exe
+Completed scanning file: SmartSense.exe
+Completed scanning file: DpiScaling.exe
+Completed scanning file: recover.exe
+Completed scanning file: gpupdate.exe
+Completed scanning file: wecutil.exe
+Completed scanning file: dsregcmd.exe
+Completed scanning file: CNAB4LAD.EXE
+Completed scanning file: ssh-keygen.exe
+Completed scanning file: winrs.exe
+Completed scanning file: Eap3Host.exe
+Completed scanning file: OOBE-Maintenance.exe
+Completed scanning file: ddodiag.exe
+Completed scanning file: CNAB4UND.EXE
+Completed scanning file: wbemtest.exe
+Completed scanning file: BitLockerWizardElev.exe
+Completed scanning file: LogonUI.exe
+Completed scanning file: vulkaninfo-x64.exe
+Completed scanning file: wscadminui.exe
+Completed scanning file: Windows.WARP.JITService.exe
+Completed scanning file: NvImageConvert64.exe
+Completed scanning file: ReShadeFXC64.exe
+Completed scanning file: OptionalFeatures.exe
+Completed scanning file: slui.exe
+Completed scanning file: scrcons.exe
+Completed scanning file: wslg.exe
+Completed scanning file: PkgMgr.exe
+Completed scanning file: dmclient.exe
+Completed scanning file: vulkaninfo-1-999-0-0-0.exe
+Completed scanning file: ssh.exe
+Completed scanning file: SpeechModelDownload.exe
+Completed scanning file: RunLegacyCPLElevated.exe
+Completed scanning file: wusa.exe
+Completed scanning file: netcfg.exe
+Completed scanning file: colorcpl.exe
+Completed scanning file: aitstatic.exe
+Completed scanning file: UpdateNotificationMgr.exe
+Completed scanning file: IcsEntitlementHost.exe
+Completed scanning file: SystemPropertiesPerformance.exe
+Completed scanning file: isoburn.exe
+Completed scanning file: DAX3API.exe
+Completed scanning file: mtstocom.exe
+Completed scanning file: CompPkgSrv.exe
+Completed scanning file: DeviceCensus.exe
+Completed scanning file: DataExchangeHost.exe
+Completed scanning file: fsavailux.exe
+Completed scanning file: pwlauncher.exe
+Completed scanning file: SppExtComObj.Exe
+Completed scanning file: rmttpmvscmgrsvr.exe
+Completed scanning file: mofcomp.exe
+Completed scanning file: TpmTool.exe
+Features used for classification:  [34404, 240, 34, 14, 30, 122880, 90112, 286720, 409472, 290816, 0, 5368709120, 4096]
+The file eudcedit.exe is legitimate
+Features used for classification:  [332, 224, 258, 14, 0, 53248, 151552, 229376, 284640, 233472, 286720, 4194304, 4096]
+The file nvsmartmaxapp.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 16, 184320, 4096, 282624, 468432, 286720, 0, 5368709120, 4096]
+The file FMService64.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 40960, 63648, 45056, 0, 5368709120, 4096]
+The file DmOmaCpMo.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 339968, 139264, 700416, 1041600, 704512, 0, 5368709120, 4096]
+The file NVDisplay.Container.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 4096, 81920, 130960, 86016, 0, 5368709120, 4096]
+The file cmstp.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 8192, 45056, 62528, 49152, 0, 5368709120, 4096]
+The file sdiagnhost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 12288, 77824, 120272, 81920, 0, 5368709120, 4096]
+The file TSWbPrxy.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 32768, 61440, 77648, 65536, 0, 5368709120, 4096]
+The file ComputerDefaults.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 241664, 8192, 466944, 707968, 471040, 0, 5368709120, 4096]
+The file ImeBroker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 53248, 72016, 57344, 0, 5368709120, 4096]
+The file wsmprovhost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 42720, 36864, 0, 5368709120, 4096]
+The file la57setup.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 36496, 32768, 0, 5368709120, 4096]
+The file regedt32.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 81920, 32768, 135168, 217776, 139264, 0, 5368709120, 4096]
+The file SpaceAgent.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 8192, 73728, 123856, 77824, 0, 5368709120, 4096]
+The file runonce.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 36, 61440, 8192, 106496, 170784, 110592, 0, 5368709120, 4096]
+The file wuauclt.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 122880, 8192, 184320, 310016, 188416, 0, 5368709120, 4096]
+The file CompatTelRunner.exe is legitimate
+Features used for classification:  [332, 224, 258, 14, 29, 1183744, 4096, 2658304, 3842464, 2662400, 3846144, 4194304, 4096]
+The file HighresBlender32.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 8192, 77824, 121248, 81920, 0, 5368709120, 4096]
+The file MuiUnattend.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 53248, 4096, 90112, 144560, 94208, 0, 5368709120, 4096]
+The file dxgiadaptercache.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 110592, 16384, 196608, 306624, 200704, 0, 5368709120, 4096]
+The file FXSCOVER.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 14, 380928, 12288, 610304, 991568, 614400, 0, 5368709120, 4096]
+The file atieclxx.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 53248, 81920, 94336, 86016, 0, 5368709120, 4096]
+The file ndadmin.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 49152, 74752, 53248, 0, 5368709120, 4096]
+The file regini.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 49152, 68704, 53248, 0, 5368709120, 4096]
+The file dmcfghost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 299008, 61440, 651264, 951104, 655360, 0, 5368709120, 4096]
+The file spoolsv.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 159744, 94208, 323584, 482608, 327680, 0, 5368709120, 4096]
+The file SearchProtocolHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 57344, 83280, 61440, 0, 5368709120, 4096]
+The file expand.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 159744, 4096, 245760, 408528, 249856, 0, 5368709120, 4096]
+The file psr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 528384, 8192, 880640, 1411600, 884736, 0, 5368709120, 4096]
+The file ShellAppRuntime.exe is legitimate
+Features used for classification:  [34404, 240, 8226, 14, 30, 16384, 4096, 69632, 87952, 73728, 0, 6442450944, 4096]
+The file execmodelproxy.dll is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 32768, 41984, 36864, 0, 5368709120, 4096]
+The file verclsid.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 237568, 8192, 376832, 613808, 380928, 0, 5368709120, 4096]
+The file rdpclip.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 278528, 4096, 253952, 532864, 258048, 0, 5368709120, 4096]
+The file RMActivate_ssp_isv.exe is legitimate
+Features used for classification:  [332, 224, 258, 14, 29, 1146880, 4096, 2584576, 3733104, 2588672, 3735552, 4194304, 4096]
+The file FreqTransfer32.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 29, 36864, 4096, 81920, 121536, 86016, 0, 5368709120, 4096]
+The file udc-cli.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 28672, 73728, 87728, 77824, 0, 5368709120, 4096]
+The file AxInstUI.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 32768, 65536, 82064, 69632, 0, 5368709120, 4096]
+The file MultiDigiMon.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 65536, 102400, 124192, 106496, 0, 5368709120, 4096]
+The file WorkFolders.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 51024, 40960, 0, 5368709120, 4096]
+The file fixmapi.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 24576, 32784, 28672, 0, 5368709120, 4096]
+The file dcomcnfg.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 8192, 45056, 67056, 49152, 0, 5368709120, 4096]
+The file tzutil.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 69632, 114688, 126896, 118784, 0, 5368709120, 4096]
+The file WinMgmt.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 73728, 4096, 122880, 196592, 126976, 0, 5368709120, 4096]
+The file stordiag.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 40960, 60432, 45056, 0, 5368709120, 4096]
+The file prevhost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 4096, 110592, 168800, 114688, 0, 5368709120, 4096]
+The file vssadmin.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 37072, 32768, 0, 5368709120, 4096]
+The file pacjsworker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 49152, 114688, 160880, 118784, 0, 5368709120, 4096]
+The file IMJPUEX.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 45056, 68320, 49152, 0, 5368709120, 4096]
+The file where.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 8192, 40960, 59184, 45056, 0, 5368709120, 4096]
+The file ipconfig.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 29, 172032, 4096, 679936, 852592, 684032, 0, 5368709120, 4096]
+The file vulkaninfo.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 8192, 81920, 125040, 86016, 0, 5368709120, 4096]
+The file DiagnosticsHub.StandardCollector.Service.exe is legitimate
+Features used for classification:  [34404, 240, 3106, 14, 30, 20480, 208896, 253952, 276848, 258048, 0, 5368709120, 4096]
+The file mighost.exe is legitimate
+Features used for classification:  [332, 224, 258, 14, 29, 135168, 4096, 593920, 730800, 598016, 733184, 4194304, 4096]
+The file vulkaninfo32.exe is malicious
+Features used for classification:  [332, 224, 258, 14, 31, 139264, 4096, 258048, 400496, 262144, 401408, 4194304, 4096]
+The file atieah32.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 495616, 8192, 167936, 662688, 172032, 0, 5368709120, 4096]
+The file GenValObj.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 1179648, 40960, 4038656, 5220288, 4042752, 0, 5368709120, 4096]
+The file VsGraphicsRemoteEngine.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 50464, 40960, 0, 5368709120, 4096]
+The file PING.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 36864, 48336, 40960, 0, 5368709120, 4096]
+The file RmClient.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 4096, 53248, 77904, 57344, 0, 5368709120, 4096]
+The file lsass.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 339968, 8192, 294912, 635152, 299008, 0, 5368709120, 4096]
+The file RMActivate_isv.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 286720, 8192, 442368, 729264, 446464, 0, 5368709120, 4096]
+The file FXSSVC.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 8192, 90112, 148656, 94208, 0, 5368709120, 4096]
+The file omadmprc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 114688, 40960, 430080, 543888, 434176, 0, 5368709120, 4096]
+The file IMTCPROP.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 36512, 32768, 0, 5368709120, 4096]
+The file plasrv.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 40960, 4096, 73728, 113856, 77824, 0, 5368709120, 4096]
+The file lpremove.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 155648, 69632, 372736, 528448, 376832, 0, 5368709120, 4096]
+The file WmiPrvSE.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 77824, 4096, 110592, 191312, 114688, 0, 5368709120, 4096]
+The file BitLockerDeviceEncryption.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 4096, 69632, 116048, 73728, 0, 5368709120, 4096]
+The file sfc.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 385024, 53248, 839680, 1224016, 843776, 0, 5368709120, 4096]
+The file WpcMon.exe is legitimate
+Features used for classification:  [34404, 240, 3106, 14, 30, 110592, 4096, 229376, 340336, 233472, 0, 5368709120, 4096]
+The file Dism.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 0, 229376, 4096, 446464, 677152, 450560, 0, 5368709120, 4096]
+The file ssh-add.exe is malicious
+Features used for classification:  [34404, 240, 34, 14, 30, 106496, 8192, 184320, 293232, 188416, 0, 5368709120, 4096]
+The file wevtutil.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 40960, 57088, 45056, 0, 5368709120, 4096]
+The file Register-CimProvider.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 24576, 8192, 53248, 80784, 57344, 0, 5368709120, 4096]
+The file rundll32.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 8192, 102400, 134976, 106496, 0, 5368709120, 4096]
+The file net.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 8192, 4096, 28672, 37072, 32768, 0, 5368709120, 4096]
+The file TCPSVCS.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 143360, 49152, 303104, 447712, 307200, 0, 5368709120, 4096]
+The file IMEWDBLD.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 36864, 8192, 65536, 102480, 69632, 0, 5368709120, 4096]
+The file NetCfgNotifyObjectHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 40960, 54496, 45056, 0, 5368709120, 4096]
+The file rasdial.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 8192, 81920, 133056, 86016, 0, 5368709120, 4096]
+The file RuntimeBroker.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 94208, 303104, 361440, 307200, 0, 5368709120, 4096]
+The file charmap.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 16384, 4096, 40960, 60160, 45056, 0, 5368709120, 4096]
+The file WPDShextAutoplay.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 61440, 143360, 201216, 147456, 0, 5368709120, 4096]
+The file iexpress.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 32768, 45296, 36864, 0, 5368709120, 4096]
+The file chkntfs.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 110592, 8192, 212992, 325344, 217088, 0, 5368709120, 4096]
+The file WpcTok.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 49152, 8192, 77824, 126528, 81920, 0, 5368709120, 4096]
+The file tasklist.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 53248, 4096, 102400, 158384, 106496, 0, 5368709120, 4096]
+The file appverif.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 27, 303104, 4096, 462848, 766832, 466944, 0, 5368709120, 4096]
+The file nvidia-smi.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 274432, 274432, 737280, 1013968, 741376, 0, 5368709120, 4096]
+The file WFS.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 139264, 61440, 315392, 457472, 319488, 0, 5368709120, 4096]
+The file powershell.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 172032, 4096, 368640, 540032, 372736, 0, 5368709120, 4096]
+The file HealthAttestationClientAgent.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 122880, 8192, 192512, 317552, 196608, 0, 5368709120, 4096]
+The file AggregatorHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 20480, 4096, 45056, 64704, 49152, 0, 5368709120, 4096]
+The file rasphone.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 401408, 12288, 589824, 992224, 593920, 0, 5368709120, 4096]
+The file SearchIndexer.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 4096, 86016, 144640, 90112, 0, 5368709120, 4096]
+The file dfrgui.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 659456, 8192, 909312, 1569584, 913408, 0, 5368709120, 4096]
+The file certutil.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 28672, 4096, 53248, 83088, 57344, 0, 5368709120, 4096]
+The file coredpussvr.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 12288, 4096, 32768, 45344, 36864, 0, 5368709120, 4096]
+The file convert.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 53248, 12288, 90112, 145168, 94208, 0, 5368709120, 4096]
+The file IMTCLNWZ.EXE is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 32768, 4096, 57344, 91632, 61440, 0, 5368709120, 4096]
+The file readCloudDataSettings.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 57344, 8192, 98304, 155824, 102400, 0, 5368709120, 4096]
+The file AuthHost.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 200704, 8192, 319488, 519856, 323584, 0, 5368709120, 4096]
+The file IESettingSync.exe is legitimate
+Features used for classification:  [34404, 240, 34, 14, 30, 45056, 131072, 204800, 252768, 208896, 0, 5368709120, 4096]
+The file Defrag.exe is legitimate
+Completed scanning file: attrib.exe
+Completed scanning file: eudcedit.exe
+Completed scanning file: nvsmartmaxapp.exe
+Completed scanning file: FMService64.exe
+Completed scanning file: DmOmaCpMo.exe
+Completed scanning file: NVDisplay.Container.exe
+Completed scanning file: cmstp.exe
+Completed scanning file: sdiagnhost.exe
+Completed scanning file: TSWbPrxy.exe
+Completed scanning file: ComputerDefaults.exe
+Completed scanning file: ImeBroker.exe
+Completed scanning file: wsmprovhost.exe
+Completed scanning file: la57setup.exe
+Completed scanning file: regedt32.exe
+Completed scanning file: runonce.exe
+Completed scanning file: SpaceAgent.exe
+Completed scanning file: CompatTelRunner.exe
+Completed scanning file: wuauclt.exe
+Completed scanning file: HighresBlender32.exe
+Completed scanning file: MuiUnattend.exe
+Completed scanning file: dxgiadaptercache.exe
+Completed scanning file: FXSCOVER.exe
+Completed scanning file: ndadmin.exe
+Completed scanning file: atieclxx.exe
+Completed scanning file: regini.exe
+Completed scanning file: SearchProtocolHost.exe
+Completed scanning file: dmcfghost.exe
+Completed scanning file: spoolsv.exe
+Completed scanning file: expand.exe
+Completed scanning file: psr.exe
+Completed scanning file: ShellAppRuntime.exe
+Completed scanning file: execmodelproxy.dll
+Completed scanning file: verclsid.exe
+Completed scanning file: rdpclip.exe
+Completed scanning file: RMActivate_ssp_isv.exe
+Completed scanning file: FreqTransfer32.exe
+Completed scanning file: AxInstUI.exe
+Completed scanning file: udc-cli.exe
+Completed scanning file: WorkFolders.exe
+Completed scanning file: MultiDigiMon.exe
+Completed scanning file: fixmapi.exe
+Completed scanning file: dcomcnfg.exe
+Completed scanning file: WinMgmt.exe
+Completed scanning file: tzutil.exe
+Completed scanning file: stordiag.exe
+Completed scanning file: prevhost.exe
+Completed scanning file: vssadmin.exe
+Completed scanning file: pacjsworker.exe
+Completed scanning file: IMJPUEX.EXE
+Completed scanning file: vulkaninfo.exe
+Completed scanning file: where.exe
+Completed scanning file: ipconfig.exe
+Completed scanning file: DiagnosticsHub.StandardCollector.Service.exe
+Completed scanning file: mighost.exe
+Completed scanning file: vulkaninfo32.exe
+Completed scanning file: atieah32.exe
+Completed scanning file: GenValObj.exe
+Completed scanning file: VsGraphicsRemoteEngine.exe
+Completed scanning file: PING.EXE
+Completed scanning file: RmClient.exe
+Completed scanning file: lsass.exe
+Completed scanning file: RMActivate_isv.exe
+Completed scanning file: FXSSVC.exe
+Completed scanning file: omadmprc.exe
+Completed scanning file: IMTCPROP.exe
+Completed scanning file: plasrv.exe
+Completed scanning file: lpremove.exe
+Completed scanning file: WmiPrvSE.exe
+Completed scanning file: BitLockerDeviceEncryption.exe
+Completed scanning file: sfc.exe
+Completed scanning file: WpcMon.exe
+Completed scanning file: wevtutil.exe
+Completed scanning file: ssh-add.exe
+Completed scanning file: Dism.exe
+Completed scanning file: Register-CimProvider.exe
+Completed scanning file: net.exe
+Completed scanning file: rundll32.exe
+Completed scanning file: TCPSVCS.EXE
+Completed scanning file: NetCfgNotifyObjectHost.exe
+Completed scanning file: RuntimeBroker.exe
+Completed scanning file: IMEWDBLD.EXE
+Completed scanning file: rasdial.exe
+Completed scanning file: charmap.exe
+Completed scanning file: WPDShextAutoplay.exe
+Completed scanning file: chkntfs.exe
+Completed scanning file: WpcTok.exe
+Completed scanning file: iexpress.exe
+Completed scanning file: tasklist.exe
+Completed scanning file: appverif.exe
+Completed scanning file: nvidia-smi.exe
+Completed scanning file: WFS.exe
+Completed scanning file: powershell.exe
+Completed scanning file: HealthAttestationClientAgent.exe
+Completed scanning file: rasphone.exe
+Completed scanning file: AggregatorHost.exe
+Completed scanning file: SearchIndexer.exe
+Completed scanning file: dfrgui.exe
+Completed scanning file: certutil.exe
+Completed scanning file: coredpussvr.exe
+Completed scanning file: IMTCLNWZ.EXE
+Completed scanning file: convert.exe
+Completed scanning file: readCloudDataSettings.exe
+Completed scanning file: IESettingSync.exe
+Completed scanning file: AuthHost.exe
+Completed scanning file: Defrag.exe

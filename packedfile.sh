@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Thư mục nguồn và đích
-SRC_DIR="malware"
-DEST_DIR="malware-packed-upx"
+SRC_DIR="/home/kali/Documents/another-benign"
+DEST_DIR="/home/kali/Documents/another-benign-packed-upx"
 
 # Tạo thư mục đích nếu chưa tồn tại
 mkdir -p $DEST_DIR
@@ -14,7 +14,7 @@ for file in "$SRC_DIR"/*; do
     # Lấy tên tệp không có thư mục
     filename=$(basename "$file")
     # Nén tệp và lưu vào thư mục đích
-    upx -9 -o "$DEST_DIR/$filename" "$file"
+    upx -9 --force -o "$DEST_DIR/$filename" "$file"
   fi
 done
 
