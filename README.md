@@ -9,7 +9,7 @@ Link github gốc: https://github.com/Kiinitix/Malware-Detection-using-Machine-l
 
 ### Video demo
 
-
+Link youtube: https://youtu.be/tYkb8Q_zgZs
 
 ### Chạy thường
 
